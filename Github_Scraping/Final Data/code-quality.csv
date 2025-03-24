@@ -1,0 +1,21 @@
+Owner,Repository Name,Repository Link,Star Count
+realm,SwiftLint,https://github.com/topics/code-quality/realm/SwiftLint,18800
+facebook,infer,https://github.com/topics/code-quality/facebook/infer,15100
+analysis-tools-dev,static-analysis,https://github.com/topics/code-quality/analysis-tools-dev/static-analysis,13600
+federico-busato,Modern-CPP-Programming,https://github.com/topics/code-quality/federico-busato/Modern-CPP-Programming,12900
+Kristories,awesome-guidelines,https://github.com/topics/code-quality/Kristories/awesome-guidelines,10000
+super-linter,super-linter,https://github.com/topics/code-quality/super-linter/super-linter,9600
+SonarSource,sonarqube,https://github.com/topics/code-quality/SonarSource/sonarqube,9300
+checkstyle,checkstyle,https://github.com/topics/code-quality/checkstyle/checkstyle,8500
+reviewdog,reviewdog,https://github.com/topics/code-quality/reviewdog/reviewdog,8200
+facebook,pyre-check,https://github.com/topics/code-quality/facebook/pyre-check,6900
+detekt,detekt,https://github.com/topics/code-quality/detekt/detekt,6400
+trekhleb,state-of-the-art-shitcode,https://github.com/topics/code-quality/trekhleb/state-of-the-art-shitcode,5800
+import-js,eslint-plugin-import,https://github.com/topics/code-quality/import-js/eslint-plugin-import,5600
+pylint-dev,pylint,https://github.com/topics/code-quality/pylint-dev/pylint,5400
+pmd,pmd,https://github.com/topics/code-quality/pmd/pmd,5000
+simplecov-ruby,simplecov,https://github.com/topics/code-quality/simplecov-ruby/simplecov,4800
+kucherenko,jscpd,https://github.com/topics/code-quality/kucherenko/jscpd,4800
+phpro,grumphp,https://github.com/topics/code-quality/phpro/grumphp,4200
+htmlhint,HTMLHint,https://github.com/topics/code-quality/htmlhint/HTMLHint,3100
+crate-ci,typos,https://github.com/topics/code-quality/crate-ci/typos,2900
