@@ -2,7 +2,7 @@
 *A Comprehensive Web Scraping Pipeline for All Editions of the ICC T20 World Cup*
 
 ## 🔍 Overview  
-This project is a **dedicated web scraping module** that powers a larger **data analysis project** focused on the ICC T20 World Cups that I have done using power bi. It involves the extraction and organization of structured cricket data from online sources for **all All editions** of the tournament (2007–2024).
+This project is a **dedicated web scraping module** that powers a larger **data analysis project** focused on the ICC T20 World Cups that I have done using Power BI. It involves the extraction and organization of structured cricket data from espncricinfo website for **All editions** of the tournament (2007–2024).
 
 The scraping pipeline collects and stores detailed information in well-organized CSV files for downstream analysis and visualization.
 
@@ -31,20 +31,15 @@ The scraping pipeline collects and stores detailed information in well-organized
 
 ## 🧰 Tech Stack
 
-- **Python**
-- **BeautifulSoup**
-- **Selenium**
-- **Pandas**
-- **CSV**
+- **Python**, **BeautifulSoup**, **Selenium**, **Pandas**, **CSV**
 
 ---
 
 
 ## 📌 Purpose & Integration
 
-> 🧩 This scraping project is a **core submodule** of a larger **Data Analysis Project** that involves performance evaluation, role-based comparisons, and team/player selection strategies.  
-
-The scraped data feeds into multiple dashboards and visualizations, helping uncover patterns and insights across all editions of the T20 World Cup.
+- 🧩 This scraping project is a **core submodule** of a larger **Data Analysis Project** that involves performance evaluation, role-based comparisons, and team/player selection strategies using a dashboard made using Power BI.  
+- The scraped data feeds into multiple dashboards and visualizations, helping uncover patterns and insights across all editions of the T20 World Cup.
 
 ---
 
