@@ -29,7 +29,7 @@ The goal of this project was to **extract, organize, and visualize phytochemical
 | `BeautifulSoup` & `Selenium` | Web scraping from IMPPAT      |
 | `Pandas`                     | Data handling and structuring |
 | `.sdf` file extraction       | Molecular structure files     |
-| `OS & shutil`                | File and directory handling   |
+| `OS`                | File and directory handling   |
 
 ---
 
