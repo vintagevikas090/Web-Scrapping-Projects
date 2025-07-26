@@ -1,0 +1,1292 @@
+Year Placed,Total Graduating students,Students placed,Median salary per annum(Rs.),Higher Studies Student,College,CollegeID,Program,Duration(Years)
+2021,771,618,1000000,74,National Institute of Technology Warangal,IR-E-U-0025,UG,4
+2022,869,639,1592000,62,National Institute of Technology Warangal,IR-E-U-0025,UG,4
+2023,1064,872,1500000,79,National Institute of Technology Warangal,IR-E-U-0025,UG,4
+2021,526,178,800000,51,National Institute of Technology Warangal,IR-E-U-0025,PG,2
+2022,542,336,1175000,45,National Institute of Technology Warangal,IR-E-U-0025,PG,2
+2023,542,452,1000000,43,National Institute of Technology Warangal,IR-E-U-0025,PG,2
+2021,225,98,600000,32,National Institute of Technology Puducherry,IR-E-U-0621,UG,4
+2022,238,166,755000,30,National Institute of Technology Puducherry,IR-E-U-0621,UG,4
+2023,243,155,980000,20,National Institute of Technology Puducherry,IR-E-U-0621,UG,4
+2021,31,9,650000,8,National Institute of Technology Puducherry,IR-E-U-0621,PG,2
+2022,21,16,1000000,3,National Institute of Technology Puducherry,IR-E-U-0621,PG,2
+2023,21,15,1055000,1,National Institute of Technology Puducherry,IR-E-U-0621,PG,2
+2021,425,338,1500000,30,Indian Institute of Technology Kharagpur,IR-E-U-0573,UG,4
+2022,450,377,1875000,41,Indian Institute of Technology Kharagpur,IR-E-U-0573,UG,4
+2023,580,460,2400000,40,Indian Institute of Technology Kharagpur,IR-E-U-0573,UG,4
+2021,1001,386,1135000,370,Indian Institute of Technology Kharagpur,IR-E-U-0573,PG,2
+2022,976,490,1350000,193,Indian Institute of Technology Kharagpur,IR-E-U-0573,PG,2
+2023,1034,555,1250000,182,Indian Institute of Technology Kharagpur,IR-E-U-0573,PG,2
+2021,8,0,0,3,Indian Institute of Technology Kharagpur,IR-E-U-0573,PG,3
+2022,11,3,1800000,1,Indian Institute of Technology Kharagpur,IR-E-U-0573,PG,3
+2023,11,7,1800000,3,Indian Institute of Technology Kharagpur,IR-E-U-0573,PG,3
+2021,115,84,1000000,13,Indian Institute of Technology Bhilai,IR-E-U-0946,UG,4
+2022,117,101,1400000,1,Indian Institute of Technology Bhilai,IR-E-U-0946,UG,4
+2023,126,101,1500000,4,Indian Institute of Technology Bhilai,IR-E-U-0946,UG,4
+2021,17,11,1100000,5,Indian Institute of Technology Bhilai,IR-E-U-0946,PG,2
+2022,11,10,950000,1,Indian Institute of Technology Bhilai,IR-E-U-0946,PG,2
+2023,24,21,1000000,3,Indian Institute of Technology Bhilai,IR-E-U-0946,PG,2
+2021,768,624,1672000,144,Indian Institute of Technology Roorkee,IR-E-U-0560,UG,4
+2022,824,737,1700000,87,Indian Institute of Technology Roorkee,IR-E-U-0560,UG,4
+2023,911,733,1969000,178,Indian Institute of Technology Roorkee,IR-E-U-0560,UG,4
+2021,600,140,710000,315,Indian Institute of Technology Roorkee,IR-E-U-0560,PG,2
+2022,595,231,1270000,364,Indian Institute of Technology Roorkee,IR-E-U-0560,PG,2
+2023,558,274,1200000,284,Indian Institute of Technology Roorkee,IR-E-U-0560,PG,2
+2021,88,81,2055000,7,Indian Institute of Technology Roorkee,IR-E-U-0560,PG-Integrated,5
+2022,123,95,2254000,28,Indian Institute of Technology Roorkee,IR-E-U-0560,PG-Integrated,5
+2023,114,86,2320000,28,Indian Institute of Technology Roorkee,IR-E-U-0560,PG-Integrated,5
+2021,1166,1084,480000,52,Kalasalingam Academy of Research and Education,IR-E-U-0458,UG,4
+2022,1220,1147,550000,55,Kalasalingam Academy of Research and Education,IR-E-U-0458,UG,4
+2023,1278,1219,675000,50,Kalasalingam Academy of Research and Education,IR-E-U-0458,UG,4
+2021,130,108,578000,2,Kalasalingam Academy of Research and Education,IR-E-U-0458,PG,2
+2022,129,109,684000,5,Kalasalingam Academy of Research and Education,IR-E-U-0458,PG,2
+2021,490,335,720000,91,Indian Institute of Engineering Science and Technology Shibpur,IR-E-U-0584,UG,4
+2022,546,479,730000,50,Indian Institute of Engineering Science and Technology Shibpur,IR-E-U-0584,UG,4
+2023,629,567,850000,60,Indian Institute of Engineering Science and Technology Shibpur,IR-E-U-0584,UG,4
+2021,235,48,736000,72,Indian Institute of Engineering Science and Technology Shibpur,IR-E-U-0584,PG,2
+2022,256,132,750000,98,Indian Institute of Engineering Science and Technology Shibpur,IR-E-U-0584,PG,2
+2023,205,136,750000,57,Indian Institute of Engineering Science and Technology Shibpur,IR-E-U-0584,PG,2
+2021,588,474,750000,28,National Institute of Technology Silchar,IR-E-U-0055,UG,4
+2022,662,600,1100000,22,National Institute of Technology Silchar,IR-E-U-0055,UG,4
+2023,823,694,1395000,28,National Institute of Technology Silchar,IR-E-U-0055,UG,4
+2021,179,85,650000,81,National Institute of Technology Silchar,IR-E-U-0055,PG,2
+2022,249,124,600000,53,National Institute of Technology Silchar,IR-E-U-0055,PG,2
+2023,179,109,600000,30,National Institute of Technology Silchar,IR-E-U-0055,PG,2
+2021,326,274,1500000,26,Indraprastha Institute of Information Technology,IR-E-U-0105,UG,4
+2022,355,340,1700000,13,Indraprastha Institute of Information Technology,IR-E-U-0105,UG,4
+2023,425,390,1850000,33,Indraprastha Institute of Information Technology,IR-E-U-0105,UG,4
+2021,193,187,1400000,2,Indraprastha Institute of Information Technology,IR-E-U-0105,PG,2
+2022,213,208,1541000,2,Indraprastha Institute of Information Technology,IR-E-U-0105,PG,2
+2021,702,379,650000,58,Dr B R Ambedkar National Institute of Technology Jalandhar,IR-E-U-0374,UG,4
+2022,662,556,891000,83,Dr B R Ambedkar National Institute of Technology Jalandhar,IR-E-U-0374,UG,4
+2023,750,666,900000,43,Dr B R Ambedkar National Institute of Technology Jalandhar,IR-E-U-0374,UG,4
+2021,311,60,650000,74,Dr B R Ambedkar National Institute of Technology Jalandhar,IR-E-U-0374,PG,2
+2022,335,131,720000,93,Dr B R Ambedkar National Institute of Technology Jalandhar,IR-E-U-0374,PG,2
+2023,262,127,720000,68,Dr B R Ambedkar National Institute of Technology Jalandhar,IR-E-U-0374,PG,2
+2021,1780,1200,360000,200,Amity University,IR-E-U-0497,UG,4
+2022,1486,1227,450000,97,Amity University,IR-E-U-0497,UG,4
+2023,1401,1198,630000,186,Amity University,IR-E-U-0497,UG,4
+2021,122,95,343000,16,Amity University,IR-E-U-0497,PG,2
+2022,118,101,500000,2,Amity University,IR-E-U-0497,PG,2
+2021,93,70,380000,10,Amity University,IR-E-U-0497,PG-Integrated,5
+2022,81,56,500000,5,Amity University,IR-E-U-0497,PG-Integrated,5
+2023,82,61,463000,19,Amity University,IR-E-U-0497,PG-Integrated,5
+2021,850,745,970000,92,National Institute of Technology Calicut,IR-E-U-0263,UG,4
+2022,861,759,1080000,84,National Institute of Technology Calicut,IR-E-U-0263,UG,4
+2023,894,811,1170000,75,National Institute of Technology Calicut,IR-E-U-0263,UG,4
+2021,400,345,935000,52,National Institute of Technology Calicut,IR-E-U-0263,PG,2
+2022,421,364,980000,45,National Institute of Technology Calicut,IR-E-U-0263,PG,2
+2023,428,390,1120000,30,National Institute of Technology Calicut,IR-E-U-0263,PG,2
+2021,708,479,690000,136,Sardar Vallabhbhai National Institute of Technology,IR-E-U-0149,UG,4
+2022,733,568,801000,129,Sardar Vallabhbhai National Institute of Technology,IR-E-U-0149,UG,4
+2023,788,656,950000,81,Sardar Vallabhbhai National Institute of Technology,IR-E-U-0149,UG,4
+2021,299,80,690000,56,Sardar Vallabhbhai National Institute of Technology,IR-E-U-0149,PG,2
+2022,376,252,650000,58,Sardar Vallabhbhai National Institute of Technology,IR-E-U-0149,PG,2
+2021,860,707,900000,124,Motilal Nehru National Institute of Technology,IR-E-U-0530,UG,4
+2022,889,768,1200000,78,Motilal Nehru National Institute of Technology,IR-E-U-0530,UG,4
+2023,905,803,1700000,4,Motilal Nehru National Institute of Technology,IR-E-U-0530,UG,4
+2021,367,104,1065000,53,Motilal Nehru National Institute of Technology,IR-E-U-0530,PG,2
+2022,430,208,1100000,30,Motilal Nehru National Institute of Technology,IR-E-U-0530,PG,2
+2021,152,76,4750000,15,University of Hyderabad,IR-E-U-0042,PG,2
+2022,174,82,440000,25,University of Hyderabad,IR-E-U-0042,PG,2
+2023,78,36,660000,42,University of Hyderabad,IR-E-U-0042,PG,2
+2021,10,9,650000,1,University of Hyderabad,IR-E-U-0042,PG-Integrated,5
+2022,20,18,730000,2,University of Hyderabad,IR-E-U-0042,PG-Integrated,5
+2023,16,12,620000,4,University of Hyderabad,IR-E-U-0042,PG-Integrated,5
+2021,867,718,560000,77,Banasthali Vidyapith,IR-E-U-0389,UG,4
+2022,853,759,750000,71,Banasthali Vidyapith,IR-E-U-0389,UG,4
+2023,885,864,905000,16,Banasthali Vidyapith,IR-E-U-0389,UG,4
+2021,42,15,450000,8,Banasthali Vidyapith,IR-E-U-0389,PG,2
+2022,44,19,560000,11,Banasthali Vidyapith,IR-E-U-0389,PG,2
+2021,2197,1352,360000,349,Sathyabama Institute of Science and Technology,IR-E-U-0474,UG,4
+2022,1452,1186,425000,255,Sathyabama Institute of Science and Technology,IR-E-U-0474,UG,4
+2023,2243,1356,482102,210,Sathyabama Institute of Science and Technology,IR-E-U-0474,UG,4
+2021,72,66,470000,5,Sathyabama Institute of Science and Technology,IR-E-U-0474,PG,2
+2022,139,89,490000,31,Sathyabama Institute of Science and Technology,IR-E-U-0474,PG,2
+2021,4317,4026,400000,138,S R M Institute of Science and Technology,IR-E-U-0473,UG,4
+2022,4260,3960,449000,121,S R M Institute of Science and Technology,IR-E-U-0473,UG,4
+2023,4195,4031,610000,78,S R M Institute of Science and Technology,IR-E-U-0473,UG,4
+2021,318,237,525000,12,S R M Institute of Science and Technology,IR-E-U-0473,PG,2
+2022,359,329,550000,29,S R M Institute of Science and Technology,IR-E-U-0473,PG,2
+2021,0,0,0,0,S R M Institute of Science and Technology,IR-E-U-0473,PG-Integrated,5
+2022,0,0,0,0,S R M Institute of Science and Technology,IR-E-U-0473,PG-Integrated,5
+2023,0,0,0,0,S R M Institute of Science and Technology,IR-E-U-0473,PG-Integrated,5
+2021,164,96,800000,32,National Institute of Technology Delhi,IR-E-U-0622,UG,4
+2022,163,142,1475000,15,National Institute of Technology Delhi,IR-E-U-0622,UG,4
+2023,164,143,1550000,17,National Institute of Technology Delhi,IR-E-U-0622,UG,4
+2021,54,16,1198000,13,National Institute of Technology Delhi,IR-E-U-0622,PG,2
+2022,56,33,1500000,5,National Institute of Technology Delhi,IR-E-U-0622,PG,2
+2021,638,509,712500,38,National Institute of Technology Rourkela,IR-E-U-0357,UG,4
+2022,712,640,1000000,15,National Institute of Technology Rourkela,IR-E-U-0357,UG,4
+2023,910,795,1250000,40,National Institute of Technology Rourkela,IR-E-U-0357,UG,4
+2021,112,75,800000,6,National Institute of Technology Rourkela,IR-E-U-0357,PG-Integrated,5
+2022,36,29,697000,1,National Institute of Technology Rourkela,IR-E-U-0357,PG-Integrated,5
+2023,34,29,750000,1,National Institute of Technology Rourkela,IR-E-U-0357,PG-Integrated,5
+2021,124,108,650000,10,National Institute of Technology Meghalaya,IR-E-U-0619,UG,4
+2022,147,91,945000,5,National Institute of Technology Meghalaya,IR-E-U-0619,UG,4
+2023,146,118,1000000,11,National Institute of Technology Meghalaya,IR-E-U-0619,UG,4
+2021,37,10,625000,20,National Institute of Technology Meghalaya,IR-E-U-0619,PG,2
+2022,37,12,816000,7,National Institute of Technology Meghalaya,IR-E-U-0619,PG,2
+2021,171,129,1200000,42,Indian Institute of Technology Jodhpur,IR-E-U-0395,UG,4
+2022,207,164,1500000,43,Indian Institute of Technology Jodhpur,IR-E-U-0395,UG,4
+2023,312,256,1600000,56,Indian Institute of Technology Jodhpur,IR-E-U-0395,UG,4
+2021,126,74,1000000,48,Indian Institute of Technology Jodhpur,IR-E-U-0395,PG,2
+2022,127,83,1150000,44,Indian Institute of Technology Jodhpur,IR-E-U-0395,PG,2
+2023,124,91,1000000,29,Indian Institute of Technology Jodhpur,IR-E-U-0395,PG,2
+2021,864,632,1300000,120,Netaji Subhas University of Technology NSUT ,IR-E-C-6379,UG,4
+2022,896,826,1600000,70,Netaji Subhas University of Technology NSUT ,IR-E-C-6379,UG,4
+2023,1153,977,1700000,86,Netaji Subhas University of Technology NSUT ,IR-E-C-6379,UG,4
+2021,124,67,1000000,20,Netaji Subhas University of Technology NSUT ,IR-E-C-6379,PG,2
+2022,196,151,1400000,20,Netaji Subhas University of Technology NSUT ,IR-E-C-6379,PG,2
+2023,135,93,1500000,30,Netaji Subhas University of Technology NSUT ,IR-E-C-6379,PG,2
+2021,1730,1504,600000,142,Shanmugha Arts Science Technology and Research Academy,IR-E-U-0476,UG,4
+2022,1751,1548,750000,102,Shanmugha Arts Science Technology and Research Academy,IR-E-U-0476,UG,4
+2023,1806,1617,760000,115,Shanmugha Arts Science Technology and Research Academy,IR-E-U-0476,UG,4
+2021,94,50,400000,27,Shanmugha Arts Science Technology and Research Academy,IR-E-U-0476,PG,2
+2022,84,50,550000,7,Shanmugha Arts Science Technology and Research Academy,IR-E-U-0476,PG,2
+2021,80,65,400000,9,Shanmugha Arts Science Technology and Research Academy,IR-E-U-0476,PG-Integrated,5
+2022,62,50,550000,2,Shanmugha Arts Science Technology and Research Academy,IR-E-U-0476,PG-Integrated,5
+2023,45,33,550000,12,Shanmugha Arts Science Technology and Research Academy,IR-E-U-0476,PG-Integrated,5
+2021,1121,877,550000,233,M S Ramaiah Institute of Technology,IR-E-C-1331,UG,4
+2022,1124,897,615000,140,M S Ramaiah Institute of Technology,IR-E-C-1331,UG,4
+2023,1121,841,800000,167,M S Ramaiah Institute of Technology,IR-E-C-1331,UG,4
+2021,177,136,550000,8,M S Ramaiah Institute of Technology,IR-E-C-1331,PG,2
+2022,181,142,600000,5,M S Ramaiah Institute of Technology,IR-E-C-1331,PG,2
+2021,158,114,900000,25,Indian Institute of Technology Gandhinagar,IR-E-U-0139,UG,4
+2022,173,100,1417000,40,Indian Institute of Technology Gandhinagar,IR-E-U-0139,UG,4
+2023,188,123,1600000,26,Indian Institute of Technology Gandhinagar,IR-E-U-0139,UG,4
+2021,0,0,0,0,Indian Institute of Technology Gandhinagar,IR-E-U-0139,UG,5
+2022,0,0,0,0,Indian Institute of Technology Gandhinagar,IR-E-U-0139,UG,5
+2021,130,79,850000,38,Indian Institute of Technology Gandhinagar,IR-E-U-0139,PG,2
+2022,35,20,1101000,12,Indian Institute of Technology Gandhinagar,IR-E-U-0139,PG,2
+2023,35,20,1375000,8,Indian Institute of Technology Gandhinagar,IR-E-U-0139,PG,2
+2021,615,428,360000,83,SR University,IR-E-C-19754,UG,4
+2022,616,472,400000,65,SR University,IR-E-C-19754,UG,4
+2023,622,414,401988,108,SR University,IR-E-C-19754,UG,4
+2021,82,48,450000,14,SR University,IR-E-C-19754,PG,2
+2022,108,72,450000,11,SR University,IR-E-C-19754,PG,2
+2021,200,190,1700000,10,Defence Institute of Advanced Technology,IR-E-U-0297,PG,2
+2022,215,208,1950000,7,Defence Institute of Advanced Technology,IR-E-U-0297,PG,2
+2023,295,265,2000000,15,Defence Institute of Advanced Technology,IR-E-U-0297,PG,2
+2021,645,525,600000,82,National Institute of Technology Agartala,IR-E-U-0493,UG,4
+2022,681,619,700000,58,National Institute of Technology Agartala,IR-E-U-0493,UG,4
+2023,761,723,850000,26,National Institute of Technology Agartala,IR-E-U-0493,UG,4
+2021,148,80,600000,32,National Institute of Technology Agartala,IR-E-U-0493,PG,2
+2022,161,106,650000,22,National Institute of Technology Agartala,IR-E-U-0493,PG,2
+2021,1018,844,550000,77,Sri Sivasubramaniya Nadar College of Engineering,IR-E-C-16604,UG,4
+2022,1083,905,760000,98,Sri Sivasubramaniya Nadar College of Engineering,IR-E-C-16604,UG,4
+2023,845,677,800000,115,Sri Sivasubramaniya Nadar College of Engineering,IR-E-C-16604,UG,4
+2021,44,30,460000,11,Sri Sivasubramaniya Nadar College of Engineering,IR-E-C-16604,PG,2
+2022,44,36,600000,7,Sri Sivasubramaniya Nadar College of Engineering,IR-E-C-16604,PG,2
+2023,44,40,600000,3,Sri Sivasubramaniya Nadar College of Engineering,IR-E-C-16604,PG,2
+2021,2644,1717,500000,379,Koneru Lakshmaiah Education Foundation University K L College of Engineering ,IR-E-U-0020,UG,4
+2022,2648,1752,660000,405,Koneru Lakshmaiah Education Foundation University K L College of Engineering ,IR-E-U-0020,UG,4
+2023,2891,1991,805500,798,Koneru Lakshmaiah Education Foundation University K L College of Engineering ,IR-E-U-0020,UG,4
+2021,392,153,450000,63,Koneru Lakshmaiah Education Foundation University K L College of Engineering ,IR-E-U-0020,PG,2
+2022,241,88,476000,96,Koneru Lakshmaiah Education Foundation University K L College of Engineering ,IR-E-U-0020,PG,2
+2023,208,72,820000,90,Koneru Lakshmaiah Education Foundation University K L College of Engineering ,IR-E-U-0020,PG,2
+2021,1240,771,500000,142,PSG College of Technology,IR-E-C-37013,UG,4
+2022,1244,926,650008,114,PSG College of Technology,IR-E-C-37013,UG,4
+2023,1217,902,700000,82,PSG College of Technology,IR-E-C-37013,UG,4
+2021,188,94,460000,11,PSG College of Technology,IR-E-C-37013,UG,5
+2022,191,139,500000,15,PSG College of Technology,IR-E-C-37013,UG,5
+2023,174,123,600000,0,PSG College of Technology,IR-E-C-37013,UG,5
+2021,293,128,500000,4,PSG College of Technology,IR-E-C-37013,PG,2
+2022,175,99,630000,0,PSG College of Technology,IR-E-C-37013,PG,2
+2023,120,57,700000,0,PSG College of Technology,IR-E-C-37013,PG,2
+2021,221,190,2000000,2,Indian Institute of Information Technology Allahabad,IR-E-U-0516,UG,4
+2022,275,261,2800000,14,Indian Institute of Information Technology Allahabad,IR-E-U-0516,UG,4
+2023,384,372,3000000,9,Indian Institute of Information Technology Allahabad,IR-E-U-0516,UG,4
+2021,125,93,1150000,13,Indian Institute of Information Technology Allahabad,IR-E-U-0516,PG,2
+2022,141,137,1675000,4,Indian Institute of Information Technology Allahabad,IR-E-U-0516,PG,2
+2023,176,133,1500000,6,Indian Institute of Information Technology Allahabad,IR-E-U-0516,PG,2
+2021,445,359,680000,74,National Institute of Technology Patna,IR-E-U-0072,UG,4
+2022,550,512,1000000,32,National Institute of Technology Patna,IR-E-U-0072,UG,4
+2023,626,601,988000,17,National Institute of Technology Patna,IR-E-U-0072,UG,4
+2021,200,14,675000,67,National Institute of Technology Patna,IR-E-U-0072,PG,2
+2022,256,125,600000,79,National Institute of Technology Patna,IR-E-U-0072,PG,2
+2023,199,87,780000,83,National Institute of Technology Patna,IR-E-U-0072,PG,2
+2021,273,185,1625000,12,Indian Institute of Technology Hyderabad,IR-E-U-0013,UG,4
+2022,268,237,2000000,21,Indian Institute of Technology Hyderabad,IR-E-U-0013,UG,4
+2023,293,269,2100000,17,Indian Institute of Technology Hyderabad,IR-E-U-0013,UG,4
+2021,151,74,1945000,7,Indian Institute of Technology Hyderabad,IR-E-U-0013,PG,2
+2022,244,199,1650000,19,Indian Institute of Technology Hyderabad,IR-E-U-0013,PG,2
+2023,335,297,1500000,29,Indian Institute of Technology Hyderabad,IR-E-U-0013,PG,2
+2021,31,26,2526000,0,Indian Institute of Technology Hyderabad,IR-E-U-0013,PG,3
+2022,44,40,2100000,4,Indian Institute of Technology Hyderabad,IR-E-U-0013,PG,3
+2023,32,26,2180000,2,Indian Institute of Technology Hyderabad,IR-E-U-0013,PG,3
+2021,242,198,1350000,17,Indian Institute of Technology Bhubaneswar,IR-E-U-0355,UG,4
+2022,254,236,1500000,15,Indian Institute of Technology Bhubaneswar,IR-E-U-0355,UG,4
+2023,299,247,1598000,10,Indian Institute of Technology Bhubaneswar,IR-E-U-0355,UG,4
+2021,152,74,882000,20,Indian Institute of Technology Bhubaneswar,IR-E-U-0355,PG,2
+2022,168,142,1250000,7,Indian Institute of Technology Bhubaneswar,IR-E-U-0355,PG,2
+2023,122,106,1200000,8,Indian Institute of Technology Bhubaneswar,IR-E-U-0355,PG,2
+2021,2554,2250,1300000,118,Birla Institute of Technology and Science Pilani,IR-E-U-0391,UG,4
+2022,2762,2470,1820000,89,Birla Institute of Technology and Science Pilani,IR-E-U-0391,UG,4
+2023,2804,2443,1900000,303,Birla Institute of Technology and Science Pilani,IR-E-U-0391,UG,4
+2021,659,564,1200000,22,Birla Institute of Technology and Science Pilani,IR-E-U-0391,PG,2
+2022,699,613,1480000,4,Birla Institute of Technology and Science Pilani,IR-E-U-0391,PG,2
+2021,631,393,810000,15,Birla Institute of Technology,IR-E-U-0202,UG,4
+2022,669,597,990000,44,Birla Institute of Technology,IR-E-U-0202,UG,4
+2023,720,519,1057982,39,Birla Institute of Technology,IR-E-U-0202,UG,4
+2021,114,14,401986,5,Birla Institute of Technology,IR-E-U-0202,PG,2
+2022,217,86,590000,17,Birla Institute of Technology,IR-E-U-0202,PG,2
+2021,663,500,1392000,163,Indian Institute of Technology Bombay,IR-E-U-0306,UG,4
+2022,674,591,1880000,83,Indian Institute of Technology Bombay,IR-E-U-0306,UG,4
+2023,798,644,1963000,154,Indian Institute of Technology Bombay,IR-E-U-0306,UG,4
+2021,853,407,1300000,446,Indian Institute of Technology Bombay,IR-E-U-0306,PG,2
+2022,853,623,1476188,230,Indian Institute of Technology Bombay,IR-E-U-0306,PG,2
+2023,870,641,1500000,223,Indian Institute of Technology Bombay,IR-E-U-0306,PG,2
+2021,5165,2401,450000,242,Lovely Professional University,IR-E-U-0379,UG,4
+2022,3543,2435,707000,392,Lovely Professional University,IR-E-U-0379,UG,4
+2023,4099,3508,650000,205,Lovely Professional University,IR-E-U-0379,UG,4
+2021,105,67,615000,8,Lovely Professional University,IR-E-U-0379,PG,2
+2022,124,89,810000,3,Lovely Professional University,IR-E-U-0379,PG,2
+2023,135,108,840000,6,Lovely Professional University,IR-E-U-0379,PG,2
+2021,52,44,600000,1,Lovely Professional University,IR-E-U-0379,PG-Integrated,5
+2022,53,49,810000,1,Lovely Professional University,IR-E-U-0379,PG-Integrated,5
+2023,19,19,840000,0,Lovely Professional University,IR-E-U-0379,PG-Integrated,5
+2021,372,151,562000,143,Aligarh Muslim University,IR-E-U-0496,UG,4
+2022,385,307,550000,78,Aligarh Muslim University,IR-E-U-0496,UG,4
+2023,379,312,600000,67,Aligarh Muslim University,IR-E-U-0496,UG,4
+2021,108,22,475000,59,Aligarh Muslim University,IR-E-U-0496,PG,2
+2022,103,13,475000,47,Aligarh Muslim University,IR-E-U-0496,PG,2
+2023,134,18,587000,53,Aligarh Muslim University,IR-E-U-0496,PG,2
+2021,1072,549,405000,302,Jawaharlal Nehru Technological University,IR-E-U-0017,UG,4
+2022,1150,589,550000,423,Jawaharlal Nehru Technological University,IR-E-U-0017,UG,4
+2023,1220,1100,625000,120,Jawaharlal Nehru Technological University,IR-E-U-0017,UG,4
+2021,379,195,400000,52,Jawaharlal Nehru Technological University,IR-E-U-0017,PG,2
+2022,402,286,550000,65,Jawaharlal Nehru Technological University,IR-E-U-0017,PG,2
+2021,0,0,0,0,Visvesvaraya Technological University,IR-E-U-0249,UG,4
+2022,0,0,0,0,Visvesvaraya Technological University,IR-E-U-0249,UG,4
+2023,0,0,0,0,Visvesvaraya Technological University,IR-E-U-0249,UG,4
+2021,395,222,375000,173,Visvesvaraya Technological University,IR-E-U-0249,PG,2
+2022,310,137,373000,170,Visvesvaraya Technological University,IR-E-U-0249,PG,2
+2023,365,210,540000,155,Visvesvaraya Technological University,IR-E-U-0249,PG,2
+2021,171,55,345000,31,Shoolini University of Biotechnology and Management Sciences,IR-E-U-0190,UG,4
+2022,191,56,379000,49,Shoolini University of Biotechnology and Management Sciences,IR-E-U-0190,UG,4
+2023,237,130,400000,52,Shoolini University of Biotechnology and Management Sciences,IR-E-U-0190,UG,4
+2021,14,5,328000,6,Shoolini University of Biotechnology and Management Sciences,IR-E-U-0190,PG,2
+2022,30,6,500000,18,Shoolini University of Biotechnology and Management Sciences,IR-E-U-0190,PG,2
+2021,1634,1192,450000,11,UPES,IR-E-U-0564,UG,4
+2022,1562,762,500000,49,UPES,IR-E-U-0564,UG,4
+2023,925,900,650000,17,UPES,IR-E-U-0564,UG,4
+2021,130,98,480000,0,UPES,IR-E-U-0564,PG,2
+2022,177,155,588000,12,UPES,IR-E-U-0564,PG,2
+2023,181,161,600000,5,UPES,IR-E-U-0564,PG,2
+2021,3775,1953,649000,74,Kalinga Institute of Industrial Technology,IR-E-U-0356,UG,4
+2022,3789,1751,450000,101,Kalinga Institute of Industrial Technology,IR-E-U-0356,UG,4
+2023,3619,2636,750000,85,Kalinga Institute of Industrial Technology,IR-E-U-0356,UG,4
+2021,106,98,800000,8,Kalinga Institute of Industrial Technology,IR-E-U-0356,PG,2
+2022,111,103,800000,8,Kalinga Institute of Industrial Technology,IR-E-U-0356,PG,2
+2023,114,105,800000,9,Kalinga Institute of Industrial Technology,IR-E-U-0356,PG,2
+2021,2103,1211,500000,143,Anna University,IR-E-U-0439,UG,4
+2022,2633,1669,630000,142,Anna University,IR-E-U-0439,UG,4
+2023,1961,1593,750000,165,Anna University,IR-E-U-0439,UG,4
+2021,1052,356,500000,69,Anna University,IR-E-U-0439,PG,2
+2022,696,241,550000,27,Anna University,IR-E-U-0439,PG,2
+2021,1120,683,800000,70,R V College of Engineering,IR-E-C-1269,UG,4
+2022,1062,791,850000,80,R V College of Engineering,IR-E-C-1269,UG,4
+2023,1072,810,1000000,95,R V College of Engineering,IR-E-C-1269,UG,4
+2021,277,182,662000,4,R V College of Engineering,IR-E-C-1269,PG,2
+2022,284,211,600000,4,R V College of Engineering,IR-E-C-1269,PG,2
+2023,236,190,700000,3,R V College of Engineering,IR-E-C-1269,PG,2
+2021,95,54,900000,11,Indian Institute of Technology Jammu,IR-E-U-0906,UG,4
+2022,128,93,1600000,11,Indian Institute of Technology Jammu,IR-E-U-0906,UG,4
+2023,179,134,1600000,16,Indian Institute of Technology Jammu,IR-E-U-0906,UG,4
+2021,36,23,1100000,2,Indian Institute of Technology Jammu,IR-E-U-0906,PG,2
+2022,46,36,1800000,4,Indian Institute of Technology Jammu,IR-E-U-0906,PG,2
+2021,0,0,0,0,Indian Institute of Technology Jammu,IR-E-U-0906,PG,3
+2022,0,0,0,0,Indian Institute of Technology Jammu,IR-E-U-0906,PG,3
+2023,5,4,2737000,1,Indian Institute of Technology Jammu,IR-E-U-0906,PG,3
+2021,597,453,1870000,73,Indian Institute of Technology Guwahati,IR-E-U-0053,UG,4
+2022,649,583,2250000,43,Indian Institute of Technology Guwahati,IR-E-U-0053,UG,4
+2023,697,639,2160000,51,Indian Institute of Technology Guwahati,IR-E-U-0053,UG,4
+2021,659,258,1250000,242,Indian Institute of Technology Guwahati,IR-E-U-0053,PG,2
+2022,567,357,1350000,190,Indian Institute of Technology Guwahati,IR-E-U-0053,PG,2
+2021,765,694,1600000,41,Indian Institute of Technology Banaras Hindu University Varanasi,IR-E-U-0701,UG,4
+2022,783,748,1896000,32,Indian Institute of Technology Banaras Hindu University Varanasi,IR-E-U-0701,UG,4
+2023,954,915,2000000,35,Indian Institute of Technology Banaras Hindu University Varanasi,IR-E-U-0701,UG,4
+2021,251,217,1600000,15,Indian Institute of Technology Banaras Hindu University Varanasi,IR-E-U-0701,UG,5
+2022,265,241,1896000,24,Indian Institute of Technology Banaras Hindu University Varanasi,IR-E-U-0701,UG,5
+2023,247,234,2150000,10,Indian Institute of Technology Banaras Hindu University Varanasi,IR-E-U-0701,UG,5
+2021,369,268,1600000,83,Indian Institute of Technology Banaras Hindu University Varanasi,IR-E-U-0701,PG,2
+2022,288,258,1800000,26,Indian Institute of Technology Banaras Hindu University Varanasi,IR-E-U-0701,PG,2
+2023,223,188,1200000,30,Indian Institute of Technology Banaras Hindu University Varanasi,IR-E-U-0701,PG,2
+2021,2001,1009,650000,186,Manipal Institute of Technology,IR-E-C-7252,UG,4
+2022,1879,1090,800000,229,Manipal Institute of Technology,IR-E-C-7252,UG,4
+2023,1664,1136,888250,281,Manipal Institute of Technology,IR-E-C-7252,UG,4
+2021,390,214,750000,7,Manipal Institute of Technology,IR-E-C-7252,PG,2
+2022,461,309,746460,5,Manipal Institute of Technology,IR-E-C-7252,PG,2
+2021,2265,1671,445000,489,Amrita Vishwa Vidyapeetham,IR-E-U-0436,UG,4
+2022,2058,1621,450000,252,Amrita Vishwa Vidyapeetham,IR-E-U-0436,UG,4
+2023,2267,1834,724000,433,Amrita Vishwa Vidyapeetham,IR-E-U-0436,UG,4
+2021,361,162,575000,154,Amrita Vishwa Vidyapeetham,IR-E-U-0436,PG,2
+2022,681,489,640500,172,Amrita Vishwa Vidyapeetham,IR-E-U-0436,PG,2
+2021,120,111,2953000,8,International Institute of Information Technology Hyderabad,IR-E-U-0014,UG,4
+2022,155,141,3036000,11,International Institute of Information Technology Hyderabad,IR-E-U-0014,UG,4
+2023,154,140,3030000,14,International Institute of Information Technology Hyderabad,IR-E-U-0014,UG,4
+2021,83,78,2400000,5,International Institute of Information Technology Hyderabad,IR-E-U-0014,UG,5
+2022,100,94,2798000,2,International Institute of Information Technology Hyderabad,IR-E-U-0014,UG,5
+2023,36,33,2700000,3,International Institute of Information Technology Hyderabad,IR-E-U-0014,UG,5
+2021,143,138,1870000,5,International Institute of Information Technology Hyderabad,IR-E-U-0014,PG,2
+2022,136,122,2195000,10,International Institute of Information Technology Hyderabad,IR-E-U-0014,PG,2
+2023,137,133,2200000,4,International Institute of Information Technology Hyderabad,IR-E-U-0014,PG,2
+2021,467,36,400000,103,Christ University,IR-E-U-0217,UG,4
+2022,444,38,500000,96,Christ University,IR-E-U-0217,UG,4
+2023,373,280,516000,69,Christ University,IR-E-U-0217,UG,4
+2021,16,11,520000,2,Christ University,IR-E-U-0217,PG,2
+2022,36,21,516000,3,Christ University,IR-E-U-0217,PG,2
+2023,38,23,540000,2,Christ University,IR-E-U-0217,PG,2
+2021,796,448,760000,110,National Institute of Technology Raipur,IR-E-U-0092,UG,4
+2022,816,627,900000,80,National Institute of Technology Raipur,IR-E-U-0092,UG,4
+2023,969,734,950000,50,National Institute of Technology Raipur,IR-E-U-0092,UG,4
+2021,114,24,60000,20,National Institute of Technology Raipur,IR-E-U-0092,PG,2
+2022,126,37,650000,10,National Institute of Technology Raipur,IR-E-U-0092,PG,2
+2021,14,3,575000,4,National Institute of Technology Raipur,IR-E-U-0092,PG,3
+2022,17,0,0,0,National Institute of Technology Raipur,IR-E-U-0092,PG,3
+2023,15,0,0,0,National Institute of Technology Raipur,IR-E-U-0092,PG,3
+2021,1859,911,360000,130,Vel Tech Rangarajan Dr Sagunthala R D Institute of Science and Technology,IR-E-U-0489,UG,4
+2022,1873,1010,383000,181,Vel Tech Rangarajan Dr Sagunthala R D Institute of Science and Technology,IR-E-U-0489,UG,4
+2023,2273,1328,400000,377,Vel Tech Rangarajan Dr Sagunthala R D Institute of Science and Technology,IR-E-U-0489,UG,4
+2021,102,90,500000,3,Vel Tech Rangarajan Dr Sagunthala R D Institute of Science and Technology,IR-E-U-0489,PG,2
+2022,96,91,500000,1,Vel Tech Rangarajan Dr Sagunthala R D Institute of Science and Technology,IR-E-U-0489,PG,2
+2021,1209,631,500000,146,Manipal University Jaipur,IR-E-U-0749,UG,4
+2022,1145,709,650000,121,Manipal University Jaipur,IR-E-U-0749,UG,4
+2023,1256,678,600000,157,Manipal University Jaipur,IR-E-U-0749,UG,4
+2021,8,2,600000,0,Manipal University Jaipur,IR-E-U-0749,PG,2
+2022,10,6,600000,1,Manipal University Jaipur,IR-E-U-0749,PG,2
+2023,11,11,700000,0,Manipal University Jaipur,IR-E-U-0749,PG,2
+2021,920,431,594000,122,Chitkara University,IR-E-U-0373,UG,4
+2022,1078,859,760000,65,Chitkara University,IR-E-U-0373,UG,4
+2023,1450,569,600000,145,Chitkara University,IR-E-U-0373,UG,4
+2021,0,0,0,0,Chitkara University,IR-E-U-0373,PG,2
+2022,0,0,0,0,Chitkara University,IR-E-U-0373,PG,2
+2021,23,23,500000,0,Chitkara University,IR-E-U-0373,PG,3
+2022,8,8,600000,0,Chitkara University,IR-E-U-0373,PG,3
+2023,6,6,750000,0,Chitkara University,IR-E-U-0373,PG,3
+2021,358,234,600000,97,Jamia Millia Islamia,IR-E-U-0108,UG,4
+2022,359,270,750000,82,Jamia Millia Islamia,IR-E-U-0108,UG,4
+2023,353,292,1100000,61,Jamia Millia Islamia,IR-E-U-0108,UG,4
+2021,158,98,660000,49,Jamia Millia Islamia,IR-E-U-0108,PG,2
+2022,161,120,1000000,32,Jamia Millia Islamia,IR-E-U-0108,PG,2
+2023,157,126,1300000,31,Jamia Millia Islamia,IR-E-U-0108,PG,2
+2021,672,541,1760000,101,Indian Institute of Technology Delhi,IR-E-I-1074,UG,4
+2022,685,621,2050000,64,Indian Institute of Technology Delhi,IR-E-I-1074,UG,4
+2023,835,676,2000000,50,Indian Institute of Technology Delhi,IR-E-I-1074,UG,4
+2021,94,77,2200000,6,Indian Institute of Technology Delhi,IR-E-I-1074,UG,5
+2022,80,80,2000000,0,Indian Institute of Technology Delhi,IR-E-I-1074,UG,5
+2021,867,379,1500000,240,Indian Institute of Technology Delhi,IR-E-I-1074,PG,2
+2022,813,322,1250000,159,Indian Institute of Technology Delhi,IR-E-I-1074,PG,2
+2023,827,308,1400000,112,Indian Institute of Technology Delhi,IR-E-I-1074,PG,2
+2021,143,112,1800000,27,Indian Institute of Technology Mandi,IR-E-U-0184,UG,4
+2022,187,157,2100000,25,Indian Institute of Technology Mandi,IR-E-U-0184,UG,4
+2023,232,207,2200000,24,Indian Institute of Technology Mandi,IR-E-U-0184,UG,4
+2021,0,0,0,0,Indian Institute of Technology Mandi,IR-E-U-0184,UG,5
+2022,0,0,0,0,Indian Institute of Technology Mandi,IR-E-U-0184,UG,5
+2021,235,109,650000,121,Indian Institute of Technology Mandi,IR-E-U-0184,PG,2
+2022,168,87,720000,74,Indian Institute of Technology Mandi,IR-E-U-0184,PG,2
+2023,247,145,800000,91,Indian Institute of Technology Mandi,IR-E-U-0184,PG,2
+2021,1089,961,470000,84,C V Raman Global University Odisha,IR-E-C-30045,UG,4
+2022,1037,968,500000,69,C V Raman Global University Odisha,IR-E-C-30045,UG,4
+2023,929,857,520000,72,C V Raman Global University Odisha,IR-E-C-30045,UG,4
+2021,193,169,345000,17,C V Raman Global University Odisha,IR-E-C-30045,PG,2
+2022,113,102,360000,11,C V Raman Global University Odisha,IR-E-C-30045,PG,2
+2021,105,65,900000,18,Indian Institute of Technology Tirupati,IR-E-U-0844,UG,4
+2022,167,142,1210000,16,Indian Institute of Technology Tirupati,IR-E-U-0844,UG,4
+2023,189,120,1600000,51,Indian Institute of Technology Tirupati,IR-E-U-0844,UG,4
+2021,51,31,875000,6,Indian Institute of Technology Tirupati,IR-E-U-0844,PG,2
+2022,43,38,805000,5,Indian Institute of Technology Tirupati,IR-E-U-0844,PG,2
+2023,61,41,1450000,11,Indian Institute of Technology Tirupati,IR-E-U-0844,PG,2
+2021,0,0,0,0,Indian Institute of Technology Tirupati,IR-E-U-0844,PG-Integrated,5
+2022,0,0,0,0,Indian Institute of Technology Tirupati,IR-E-U-0844,PG-Integrated,5
+2023,0,0,0,0,Indian Institute of Technology Tirupati,IR-E-U-0844,PG-Integrated,5
+2021,2041,1807,1100000,234,Delhi Technological University,IR-E-U-0098,UG,4
+2022,2131,1880,1300000,251,Delhi Technological University,IR-E-U-0098,UG,4
+2023,2220,1965,1410000,255,Delhi Technological University,IR-E-U-0098,UG,4
+2021,274,209,1000000,65,Delhi Technological University,IR-E-U-0098,PG,2
+2022,305,257,1025500,48,Delhi Technological University,IR-E-U-0098,PG,2
+2023,300,246,1300000,54,Delhi Technological University,IR-E-U-0098,PG,2
+2021,768,422,900000,80,National Institute of Technology Kurukshetra,IR-E-U-0172,UG,4
+2022,789,632,1100000,102,National Institute of Technology Kurukshetra,IR-E-U-0172,UG,4
+2023,959,662,1107000,125,National Institute of Technology Kurukshetra,IR-E-U-0172,UG,4
+2021,330,34,750000,120,National Institute of Technology Kurukshetra,IR-E-U-0172,PG,2
+2022,358,165,900000,115,National Institute of Technology Kurukshetra,IR-E-U-0172,PG,2
+2023,388,197,900000,103,National Institute of Technology Kurukshetra,IR-E-U-0172,PG,2
+2021,1626,1174,800000,190,Thapar Institute of Engineering and Technology Deemed to be university ,IR-E-I-1480,UG,4
+2022,1692,1422,1000000,177,Thapar Institute of Engineering and Technology Deemed to be university ,IR-E-I-1480,UG,4
+2023,2259,1962,1189000,193,Thapar Institute of Engineering and Technology Deemed to be university ,IR-E-I-1480,UG,4
+2021,176,48,740000,76,Thapar Institute of Engineering and Technology Deemed to be university ,IR-E-I-1480,PG,2
+2022,272,161,810000,82,Thapar Institute of Engineering and Technology Deemed to be university ,IR-E-I-1480,PG,2
+2023,202,136,1000000,46,Thapar Institute of Engineering and Technology Deemed to be university ,IR-E-I-1480,PG,2
+2021,111,54,800000,57,Rajiv Gandhi Institute of Petroleum Technology,IR-E-U-0535,UG,4
+2022,108,79,700000,29,Rajiv Gandhi Institute of Petroleum Technology,IR-E-U-0535,UG,4
+2023,121,83,950000,38,Rajiv Gandhi Institute of Petroleum Technology,IR-E-U-0535,UG,4
+2021,8,1,500000,7,Rajiv Gandhi Institute of Petroleum Technology,IR-E-U-0535,PG,2
+2022,55,30,510000,25,Rajiv Gandhi Institute of Petroleum Technology,IR-E-U-0535,PG,2
+2023,44,27,550000,17,Rajiv Gandhi Institute of Petroleum Technology,IR-E-U-0535,PG,2
+2021,115,75,900000,14,Indian Institute of Technology Palakkad,IR-E-U-0878,UG,4
+2022,142,107,1200000,12,Indian Institute of Technology Palakkad,IR-E-U-0878,UG,4
+2023,154,130,1410000,13,Indian Institute of Technology Palakkad,IR-E-U-0878,UG,4
+2021,32,15,650000,7,Indian Institute of Technology Palakkad,IR-E-U-0878,PG,2
+2022,71,52,950000,2,Indian Institute of Technology Palakkad,IR-E-U-0878,PG,2
+2023,70,51,950000,7,Indian Institute of Technology Palakkad,IR-E-U-0878,PG,2
+2021,1184,981,975000,203,Jadavpur University,IR-E-U-0575,UG,4
+2022,992,843,1000000,149,Jadavpur University,IR-E-U-0575,UG,4
+2023,1078,948,1000000,130,Jadavpur University,IR-E-U-0575,UG,4
+2021,459,362,902000,97,Jadavpur University,IR-E-U-0575,PG,2
+2022,365,258,910000,107,Jadavpur University,IR-E-U-0575,PG,2
+2021,524,376,545000,47,Graphic Era University,IR-E-U-0555,UG,4
+2022,778,480,630000,30,Graphic Era University,IR-E-U-0555,UG,4
+2023,895,571,592822,65,Graphic Era University,IR-E-U-0555,UG,4
+2021,44,26,550000,8,Graphic Era University,IR-E-U-0555,PG,2
+2022,52,36,635000,10,Graphic Era University,IR-E-U-0555,PG,2
+2021,1172,985,500000,187,Sri Krishna College of Engineering and Technology,IR-E-C-36995,UG,4
+2022,1101,993,550000,108,Sri Krishna College of Engineering and Technology,IR-E-C-36995,UG,4
+2023,1115,998,600000,110,Sri Krishna College of Engineering and Technology,IR-E-C-36995,UG,4
+2021,0,0,0,0,Sri Krishna College of Engineering and Technology,IR-E-C-36995,UG,5
+2022,0,0,0,0,Sri Krishna College of Engineering and Technology,IR-E-C-36995,UG,5
+2021,69,64,500000,5,Sri Krishna College of Engineering and Technology,IR-E-C-36995,PG,2
+2022,55,50,550000,5,Sri Krishna College of Engineering and Technology,IR-E-C-36995,PG,2
+2023,70,65,600000,4,Sri Krishna College of Engineering and Technology,IR-E-C-36995,PG,2
+2021,106,79,1063656,8,Indian Institute of Space Science and Technology,IR-E-U-0255,UG,4
+2022,107,86,1063656,11,Indian Institute of Space Science and Technology,IR-E-U-0255,UG,4
+2023,125,101,1104048,24,Indian Institute of Space Science and Technology,IR-E-U-0255,UG,4
+2021,89,21,890000,21,Indian Institute of Space Science and Technology,IR-E-U-0255,PG,2
+2022,103,59,1000000,18,Indian Institute of Space Science and Technology,IR-E-U-0255,PG,2
+2023,89,79,1000000,10,Indian Institute of Space Science and Technology,IR-E-U-0255,PG,2
+2021,162,162,1925000,0,International Institute of Information Technology Bangalore,IR-E-U-0221,PG,2
+2022,177,177,2494000,0,International Institute of Information Technology Bangalore,IR-E-U-0221,PG,2
+2023,173,170,2100000,0,International Institute of Information Technology Bangalore,IR-E-U-0221,PG,2
+2021,97,91,2010000,6,International Institute of Information Technology Bangalore,IR-E-U-0221,PG-Integrated,5
+2022,61,55,2300000,4,International Institute of Information Technology Bangalore,IR-E-U-0221,PG-Integrated,5
+2021,773,437,1915000,299,Indian Institute of Technology Kanpur,IR-E-I-1075,UG,4
+2022,790,621,2207000,165,Indian Institute of Technology Kanpur,IR-E-I-1075,UG,4
+2023,985,688,2300000,239,Indian Institute of Technology Kanpur,IR-E-I-1075,UG,4
+2021,736,356,1769000,294,Indian Institute of Technology Kanpur,IR-E-I-1075,PG,2
+2022,772,583,1529000,158,Indian Institute of Technology Kanpur,IR-E-I-1075,PG,2
+2021,338,292,1500000,17,Indian Institute of Technology Madras,IR-E-U-0456,UG,4
+2022,388,297,1700000,78,Indian Institute of Technology Madras,IR-E-U-0456,UG,4
+2023,639,496,1663440,96,Indian Institute of Technology Madras,IR-E-U-0456,UG,4
+2021,355,305,1300000,17,Indian Institute of Technology Madras,IR-E-U-0456,PG,2
+2022,313,285,1300000,21,Indian Institute of Technology Madras,IR-E-U-0456,PG,2
+2023,429,390,1500000,12,Indian Institute of Technology Madras,IR-E-U-0456,PG,2
+2021,142,101,1194000,32,Indian Institute of Technology Madras,IR-E-U-0456,PG,3
+2022,136,112,1500000,24,Indian Institute of Technology Madras,IR-E-U-0456,PG,3
+2023,191,147,1500000,37,Indian Institute of Technology Madras,IR-E-U-0456,PG,3
+2021,744,723,600000,19,Siddaganga Institute of Technology,IR-E-C-1297,UG,4
+2022,855,831,650000,22,Siddaganga Institute of Technology,IR-E-C-1297,UG,4
+2023,858,836,800000,20,Siddaganga Institute of Technology,IR-E-C-1297,UG,4
+2021,81,69,600000,2,Siddaganga Institute of Technology,IR-E-C-1297,PG,2
+2022,145,143,630000,2,Siddaganga Institute of Technology,IR-E-C-1297,PG,2
+2023,148,145,700000,2,Siddaganga Institute of Technology,IR-E-C-1297,PG,2
+2021,360,330,550000,30,AU College of Engineering A ,IR-E-C-24004,UG,4
+2022,372,315,650000,57,AU College of Engineering A ,IR-E-C-24004,UG,4
+2023,423,397,588000,24,AU College of Engineering A ,IR-E-C-24004,UG,4
+2021,510,93,650000,67,AU College of Engineering A ,IR-E-C-24004,PG,2
+2022,510,315,660000,78,AU College of Engineering A ,IR-E-C-24004,PG,2
+2023,510,430,680000,78,AU College of Engineering A ,IR-E-C-24004,PG,2
+2021,734,527,812000,145,COEP Technological University,IR-E-C-41593,UG,4
+2022,714,577,970000,135,COEP Technological University,IR-E-C-41593,UG,4
+2023,756,602,975000,104,COEP Technological University,IR-E-C-41593,UG,4
+2021,371,220,600000,19,COEP Technological University,IR-E-C-41593,PG,2
+2022,375,329,696000,35,COEP Technological University,IR-E-C-41593,PG,2
+2023,275,180,650000,38,COEP Technological University,IR-E-C-41593,PG,2
+2021,498,241,350000,41,Sant Longowal Institute of Engineering and Technology,IR-E-U-0384,UG,4
+2022,551,378,400000,27,Sant Longowal Institute of Engineering and Technology,IR-E-U-0384,UG,4
+2023,606,400,400000,38,Sant Longowal Institute of Engineering and Technology,IR-E-U-0384,UG,4
+2021,39,12,350000,7,Sant Longowal Institute of Engineering and Technology,IR-E-U-0384,PG,2
+2022,39,8,415000,5,Sant Longowal Institute of Engineering and Technology,IR-E-U-0384,PG,2
+2023,47,21,420000,12,Sant Longowal Institute of Engineering and Technology,IR-E-U-0384,PG,2
+2021,237,189,1240000,18,Indian Institute of Technology Ropar,IR-E-U-0378,UG,4
+2022,271,229,1714000,7,Indian Institute of Technology Ropar,IR-E-U-0378,UG,4
+2023,293,247,2000000,25,Indian Institute of Technology Ropar,IR-E-U-0378,UG,4
+2021,197,120,700000,72,Indian Institute of Technology Ropar,IR-E-U-0378,PG,2
+2022,198,108,1000000,22,Indian Institute of Technology Ropar,IR-E-U-0378,PG,2
+2023,172,115,1200000,34,Indian Institute of Technology Ropar,IR-E-U-0378,PG,2
+2021,8,5,689000,3,Indian Institute of Technology Ropar,IR-E-U-0378,PG-Integrated,5
+2022,9,7,3725000,0,Indian Institute of Technology Ropar,IR-E-U-0378,PG-Integrated,5
+2023,11,10,1800000,1,Indian Institute of Technology Ropar,IR-E-U-0378,PG-Integrated,5
+2021,218,103,655000,78,Institute of Chemical Technology,IR-E-U-0308,UG,4
+2022,209,107,800000,70,Institute of Chemical Technology,IR-E-U-0308,UG,4
+2023,240,114,800000,43,Institute of Chemical Technology,IR-E-U-0308,UG,4
+2021,254,160,525000,24,Institute of Chemical Technology,IR-E-U-0308,PG,2
+2022,309,263,521000,6,Institute of Chemical Technology,IR-E-U-0308,PG,2
+2021,0,0,0,0,Institute of Chemical Technology,IR-E-U-0308,PG-Integrated,5
+2022,0,0,0,0,Institute of Chemical Technology,IR-E-U-0308,PG-Integrated,5
+2023,98,71,620000,3,Institute of Chemical Technology,IR-E-U-0308,PG-Integrated,5
+2021,803,293,445000,176,Jain University Bangalore,IR-E-U-0223,UG,4
+2022,912,389,633000,192,Jain University Bangalore,IR-E-U-0223,UG,4
+2023,978,421,600000,194,Jain University Bangalore,IR-E-U-0223,UG,4
+2021,100,64,668000,19,Jain University Bangalore,IR-E-U-0223,PG,2
+2022,83,61,755000,12,Jain University Bangalore,IR-E-U-0223,PG,2
+2021,1405,606,460000,87,Vignan s Foundation for Science Technology and Research,IR-E-U-0043,UG,4
+2022,1640,769,400000,562,Vignan s Foundation for Science Technology and Research,IR-E-U-0043,UG,4
+2023,1706,868,682000,689,Vignan s Foundation for Science Technology and Research,IR-E-U-0043,UG,4
+2021,101,90,475000,5,Vignan s Foundation for Science Technology and Research,IR-E-U-0043,PG,2
+2022,86,80,507000,5,Vignan s Foundation for Science Technology and Research,IR-E-U-0043,PG,2
+2021,1027,884,400000,105,Siksha O Anusandhan,IR-E-U-0363,UG,4
+2022,1472,1297,450000,95,Siksha O Anusandhan,IR-E-U-0363,UG,4
+2023,2007,1836,575000,102,Siksha O Anusandhan,IR-E-U-0363,UG,4
+2021,73,54,400000,16,Siksha O Anusandhan,IR-E-U-0363,PG,2
+2022,38,31,450000,4,Siksha O Anusandhan,IR-E-U-0363,PG,2
+2021,782,642,1000000,32,National Institute of Technology Karnataka Surathkal,IR-E-U-0237,UG,4
+2022,837,734,1284000,32,National Institute of Technology Karnataka Surathkal,IR-E-U-0237,UG,4
+2023,903,794,1500000,74,National Institute of Technology Karnataka Surathkal,IR-E-U-0237,UG,4
+2021,578,436,935000,40,National Institute of Technology Karnataka Surathkal,IR-E-U-0237,PG,2
+2022,649,577,942000,6,National Institute of Technology Karnataka Surathkal,IR-E-U-0237,PG,2
+2023,629,580,1100000,15,National Institute of Technology Karnataka Surathkal,IR-E-U-0237,PG,2
+2021,260,127,700000,74,Guru Gobind Singh Indraprastha University,IR-E-U-0099,UG,4
+2022,276,165,1000000,58,Guru Gobind Singh Indraprastha University,IR-E-U-0099,UG,4
+2023,210,190,815000,20,Guru Gobind Singh Indraprastha University,IR-E-U-0099,UG,4
+2021,56,12,488000,13,Guru Gobind Singh Indraprastha University,IR-E-U-0099,PG,2
+2022,78,34,600000,14,Guru Gobind Singh Indraprastha University,IR-E-U-0099,PG,2
+2023,103,77,770000,26,Guru Gobind Singh Indraprastha University,IR-E-U-0099,PG,2
+2021,687,231,400000,38,Madan Mohan Malaviya University of Technology,IR-E-U-0739,UG,4
+2022,782,444,450000,30,Madan Mohan Malaviya University of Technology,IR-E-U-0739,UG,4
+2023,781,606,944000,112,Madan Mohan Malaviya University of Technology,IR-E-U-0739,UG,4
+2021,299,40,400000,4,Madan Mohan Malaviya University of Technology,IR-E-U-0739,PG,2
+2022,368,94,425000,4,Madan Mohan Malaviya University of Technology,IR-E-U-0739,PG,2
+2023,169,151,914224,18,Madan Mohan Malaviya University of Technology,IR-E-U-0739,PG,2
+2021,758,620,1100000,24,Indian Institute of Technology Indian School of Mines Dhanbad,IR-E-U-0205,UG,4
+2022,800,720,1500000,8,Indian Institute of Technology Indian School of Mines Dhanbad,IR-E-U-0205,UG,4
+2023,770,655,1500000,5,Indian Institute of Technology Indian School of Mines Dhanbad,IR-E-U-0205,UG,4
+2021,79,69,1767000,5,Indian Institute of Technology Indian School of Mines Dhanbad,IR-E-U-0205,UG,5
+2022,80,77,2355000,0,Indian Institute of Technology Indian School of Mines Dhanbad,IR-E-U-0205,UG,5
+2023,83,73,1280000,1,Indian Institute of Technology Indian School of Mines Dhanbad,IR-E-U-0205,UG,5
+2021,275,155,700000,38,Indian Institute of Technology Indian School of Mines Dhanbad,IR-E-U-0205,PG,2
+2022,306,196,925000,10,Indian Institute of Technology Indian School of Mines Dhanbad,IR-E-U-0205,PG,2
+2023,304,227,1100000,17,Indian Institute of Technology Indian School of Mines Dhanbad,IR-E-U-0205,PG,2
+2021,639,446,810000,39,Malaviya National Institute of Technology,IR-E-U-0410,UG,4
+2022,655,549,900000,8,Malaviya National Institute of Technology,IR-E-U-0410,UG,4
+2023,749,671,1150000,15,Malaviya National Institute of Technology,IR-E-U-0410,UG,4
+2021,400,200,750000,63,Malaviya National Institute of Technology,IR-E-U-0410,PG,2
+2022,393,263,937000,15,Malaviya National Institute of Technology,IR-E-U-0410,PG,2
+2023,365,265,980000,20,Malaviya National Institute of Technology,IR-E-U-0410,PG,2
+2021,786,574,800000,38,Maulana Azad National Institute of Technology,IR-E-U-0284,UG,4
+2022,833,666,1100000,22,Maulana Azad National Institute of Technology,IR-E-U-0284,UG,4
+2023,920,845,1383000,48,Maulana Azad National Institute of Technology,IR-E-U-0284,UG,4
+2021,302,171,1120000,48,Maulana Azad National Institute of Technology,IR-E-U-0284,PG,2
+2022,425,224,700000,23,Maulana Azad National Institute of Technology,IR-E-U-0284,PG,2
+2023,328,245,850000,44,Maulana Azad National Institute of Technology,IR-E-U-0284,PG,2
+2021,0,0,0,0,Maulana Azad National Institute of Technology,IR-E-U-0284,PG-Integrated,5
+2022,0,0,0,0,Maulana Azad National Institute of Technology,IR-E-U-0284,PG-Integrated,5
+2023,0,0,0,0,Maulana Azad National Institute of Technology,IR-E-U-0284,PG-Integrated,5
+2021,1080,272,350000,20,Saveetha Institute of Medical and Technical Sciences,IR-E-I-1441,UG,4
+2022,1154,331,359000,72,Saveetha Institute of Medical and Technical Sciences,IR-E-I-1441,UG,4
+2023,1260,349,448000,148,Saveetha Institute of Medical and Technical Sciences,IR-E-I-1441,UG,4
+2021,28,25,450000,1,Saveetha Institute of Medical and Technical Sciences,IR-E-I-1441,PG,2
+2022,29,28,450000,1,Saveetha Institute of Medical and Technical Sciences,IR-E-I-1441,PG,2
+2023,29,28,450000,1,Saveetha Institute of Medical and Technical Sciences,IR-E-I-1441,PG,2
+2021,568,343,625000,124,National Institute of Technology Srinagar,IR-E-U-0197,UG,4
+2022,575,468,833000,51,National Institute of Technology Srinagar,IR-E-U-0197,UG,4
+2023,581,446,1100000,96,National Institute of Technology Srinagar,IR-E-U-0197,UG,4
+2021,116,34,390000,28,National Institute of Technology Srinagar,IR-E-U-0197,PG,2
+2022,181,55,600000,52,National Institute of Technology Srinagar,IR-E-U-0197,PG,2
+2021,5294,3342,650000,1024,Vellore Institute of Technology,IR-E-U-0490,UG,4
+2022,6177,4212,800000,957,Vellore Institute of Technology,IR-E-U-0490,UG,4
+2023,7053,4923,900000,1051,Vellore Institute of Technology,IR-E-U-0490,UG,4
+2021,1329,698,545000,48,Vellore Institute of Technology,IR-E-U-0490,PG,2
+2022,1415,888,800000,40,Vellore Institute of Technology,IR-E-U-0490,PG,2
+2021,632,410,450000,31,Vellore Institute of Technology,IR-E-U-0490,PG-Integrated,5
+2022,683,585,700000,26,Vellore Institute of Technology,IR-E-U-0490,PG-Integrated,5
+2023,502,454,700000,6,Vellore Institute of Technology,IR-E-U-0490,PG-Integrated,5
+2021,648,499,842000,146,Visvesvaraya National Institute of Technology Nagpur,IR-E-U-0334,UG,4
+2022,672,669,1100000,3,Visvesvaraya National Institute of Technology Nagpur,IR-E-U-0334,UG,4
+2023,832,730,1192000,99,Visvesvaraya National Institute of Technology Nagpur,IR-E-U-0334,UG,4
+2021,256,104,789000,97,Visvesvaraya National Institute of Technology Nagpur,IR-E-U-0334,PG,2
+2022,313,281,750000,32,Visvesvaraya National Institute of Technology Nagpur,IR-E-U-0334,PG,2
+2023,315,238,815000,65,Visvesvaraya National Institute of Technology Nagpur,IR-E-U-0334,PG,2
+2021,630,429,680000,183,National Institute of Technology Durgapur,IR-E-U-0577,UG,4
+2022,685,579,810000,101,National Institute of Technology Durgapur,IR-E-U-0577,UG,4
+2023,776,640,1370000,136,National Institute of Technology Durgapur,IR-E-U-0577,UG,4
+2021,0,0,0,0,National Institute of Technology Durgapur,IR-E-U-0577,UG,5
+2022,8,2,690000,6,National Institute of Technology Durgapur,IR-E-U-0577,UG,5
+2023,8,3,710000,5,National Institute of Technology Durgapur,IR-E-U-0577,UG,5
+2021,224,48,740000,169,National Institute of Technology Durgapur,IR-E-U-0577,PG,2
+2022,281,124,900000,155,National Institute of Technology Durgapur,IR-E-U-0577,PG,2
+2023,241,132,935000,109,National Institute of Technology Durgapur,IR-E-U-0577,PG,2
+2021,235,151,1400000,10,Indian Institute of Technology Indore,IR-E-U-0273,UG,4
+2022,247,209,1850000,15,Indian Institute of Technology Indore,IR-E-U-0273,UG,4
+2023,281,238,2120000,12,Indian Institute of Technology Indore,IR-E-U-0273,UG,4
+2021,137,24,1000000,22,Indian Institute of Technology Indore,IR-E-U-0273,PG,2
+2022,164,53,1000000,29,Indian Institute of Technology Indore,IR-E-U-0273,PG,2
+2023,164,93,800000,35,Indian Institute of Technology Indore,IR-E-U-0273,PG,2
+2021,811,563,1080000,163,National Institute of Technology Tiruchirappalli,IR-E-U-0467,UG,4
+2022,865,645,1200000,133,National Institute of Technology Tiruchirappalli,IR-E-U-0467,UG,4
+2023,1075,853,1576000,142,National Institute of Technology Tiruchirappalli,IR-E-U-0467,UG,4
+2021,443,335,700000,27,National Institute of Technology Tiruchirappalli,IR-E-U-0467,PG,2
+2022,572,527,950000,13,National Institute of Technology Tiruchirappalli,IR-E-U-0467,PG,2
+2023,533,516,1000000,4,National Institute of Technology Tiruchirappalli,IR-E-U-0467,PG,2
+2021,2891,1325,660000,620,Chandigarh University,IR-E-U-0747,UG,4
+2022,2987,1542,750000,673,Chandigarh University,IR-E-U-0747,UG,4
+2023,2921,2311,800000,610,Chandigarh University,IR-E-U-0747,UG,4
+2021,0,0,0,0,Chandigarh University,IR-E-U-0747,UG,5
+2022,0,0,0,0,Chandigarh University,IR-E-U-0747,UG,5
+2021,146,97,600000,49,Chandigarh University,IR-E-U-0747,PG,2
+2022,147,99,700000,48,Chandigarh University,IR-E-U-0747,PG,2
+2023,223,151,720000,72,Chandigarh University,IR-E-U-0747,PG,2
+2021,215,163,1790000,17,Indian Institute of Technology Patna,IR-E-U-0064,UG,4
+2022,243,208,2200000,35,Indian Institute of Technology Patna,IR-E-U-0064,UG,4
+2023,333,273,1700000,13,Indian Institute of Technology Patna,IR-E-U-0064,UG,4
+2021,89,42,2100000,22,Indian Institute of Technology Patna,IR-E-U-0064,PG,2
+2022,109,96,2050000,13,Indian Institute of Technology Patna,IR-E-U-0064,PG,2
+2023,88,81,2300000,7,Indian Institute of Technology Patna,IR-E-U-0064,PG,2
+2018,248,158,741000,11,Pandit Dwarka Prasad Mishra Indian Institute of Information Technology Design and Manufacturing IIITDM Jabalpur,IR-E-U-0286,UG,4
+2019,291,173,750000,22,Pandit Dwarka Prasad Mishra Indian Institute of Information Technology Design and Manufacturing IIITDM Jabalpur,IR-E-U-0286,UG,4
+2020,262,146,943000,78,Pandit Dwarka Prasad Mishra Indian Institute of Information Technology Design and Manufacturing IIITDM Jabalpur,IR-E-U-0286,UG,4
+2018,84,29,725000,8,Pandit Dwarka Prasad Mishra Indian Institute of Information Technology Design and Manufacturing IIITDM Jabalpur,IR-E-U-0286,PG,2
+2019,96,35,710000,20,Pandit Dwarka Prasad Mishra Indian Institute of Information Technology Design and Manufacturing IIITDM Jabalpur,IR-E-U-0286,PG,2
+2018,663,543,837000,60,National Institute of Technology Warangal,IR-E-U-0025,UG,4
+2019,752,644,901325,65,National Institute of Technology Warangal,IR-E-U-0025,UG,4
+2020,720,572,900000,69,National Institute of Technology Warangal,IR-E-U-0025,UG,4
+2018,421,231,744917,47,National Institute of Technology Warangal,IR-E-U-0025,PG,2
+2019,381,206,745372,54,National Institute of Technology Warangal,IR-E-U-0025,PG,2
+2020,416,143,809000,46,National Institute of Technology Warangal,IR-E-U-0025,PG,2
+2018,475,391,1275000,44,Indian Institute of Technology Kharagpur,IR-E-U-0573,UG,4
+2019,535,437,1420059,53,Indian Institute of Technology Kharagpur,IR-E-U-0573,UG,4
+2020,451,416,1600000,32,Indian Institute of Technology Kharagpur,IR-E-U-0573,UG,4
+2018,826,418,900000,212,Indian Institute of Technology Kharagpur,IR-E-U-0573,PG,2
+2019,880,372,1674733,159,Indian Institute of Technology Kharagpur,IR-E-U-0573,PG,2
+2020,814,235,1200000,135,Indian Institute of Technology Kharagpur,IR-E-U-0573,PG,2
+2018,10,7,800000,2,Indian Institute of Technology Kharagpur,IR-E-U-0573,PG,3
+2019,9,7,813000,2,Indian Institute of Technology Kharagpur,IR-E-U-0573,PG,3
+2020,7,0,0,5,Indian Institute of Technology Kharagpur,IR-E-U-0573,PG,3
+2018,577,521,1118000,56,Indian Institute of Technology Kharagpur,IR-E-U-0573,PG-Integrated,5
+2019,581,548,1340000,33,Indian Institute of Technology Kharagpur,IR-E-U-0573,PG-Integrated,5
+2020,580,561,1500000,19,Indian Institute of Technology Kharagpur,IR-E-U-0573,PG-Integrated,5
+2018,0,0,0,0,Indian Institute of Technology Kharagpur,IR-E-U-0573,PG,6
+2019,0,0,0,0,Indian Institute of Technology Kharagpur,IR-E-U-0573,PG,6
+2020,0,0,0,0,Indian Institute of Technology Kharagpur,IR-E-U-0573,PG,6
+2018,573,513,600000,58,National Institute of Technology Jamshedpur,IR-E-U-0207,UG,4
+2019,573,458,650000,38,National Institute of Technology Jamshedpur,IR-E-U-0207,UG,4
+2020,555,472,680000,44,National Institute of Technology Jamshedpur,IR-E-U-0207,UG,4
+2018,249,21,450000,11,National Institute of Technology Jamshedpur,IR-E-U-0207,PG,2
+2019,256,40,500000,42,National Institute of Technology Jamshedpur,IR-E-U-0207,PG,2
+2020,220,50,800000,68,National Institute of Technology Jamshedpur,IR-E-U-0207,PG,2
+2018,771,598,1320000,172,Indian Institute of Technology Roorkee,IR-E-U-0560,UG,4
+2019,825,726,1450900,99,Indian Institute of Technology Roorkee,IR-E-U-0560,UG,4
+2020,794,663,1754000,131,Indian Institute of Technology Roorkee,IR-E-U-0560,UG,4
+2018,112,79,1190000,33,Indian Institute of Technology Roorkee,IR-E-U-0560,PG-Integrated,5
+2019,90,69,1500000,21,Indian Institute of Technology Roorkee,IR-E-U-0560,PG-Integrated,5
+2020,83,79,1957000,4,Indian Institute of Technology Roorkee,IR-E-U-0560,PG-Integrated,5
+2018,356,221,400000,95,College of Engineering A ,IR-E-C-24004,UG,4
+2019,370,330,450000,40,College of Engineering A ,IR-E-C-24004,UG,4
+2020,355,239,350000,86,College of Engineering A ,IR-E-C-24004,UG,4
+2018,500,84,655000,35,College of Engineering A ,IR-E-C-24004,PG,2
+2019,510,86,655000,34,College of Engineering A ,IR-E-C-24004,PG,2
+2020,510,81,400000,22,College of Engineering A ,IR-E-C-24004,PG,2
+2018,547,521,320000,26,Kalasalingam Academy of Research and Education,IR-E-U-0458,UG,4
+2019,1144,1040,367000,48,Kalasalingam Academy of Research and Education,IR-E-U-0458,UG,4
+2020,1332,1219,401000,50,Kalasalingam Academy of Research and Education,IR-E-U-0458,UG,4
+2018,65,63,360000,1,Kalasalingam Academy of Research and Education,IR-E-U-0458,PG,2
+2019,40,36,369000,3,Kalasalingam Academy of Research and Education,IR-E-U-0458,PG,2
+2018,1234,812,620000,55,Thapar Institute of Engineering and Technology,IR-E-I-1480,UG,4
+2019,1270,1088,630000,180,Thapar Institute of Engineering and Technology,IR-E-I-1480,UG,4
+2020,1549,1053,810000,182,Thapar Institute of Engineering and Technology,IR-E-I-1480,UG,4
+2018,285,125,600000,41,Thapar Institute of Engineering and Technology,IR-E-I-1480,PG,2
+2019,244,95,800000,130,Thapar Institute of Engineering and Technology,IR-E-I-1480,PG,2
+2020,161,58,800000,75,Thapar Institute of Engineering and Technology,IR-E-I-1480,PG,2
+2018,496,361,570000,34,National Institute of Technology Silchar,IR-E-U-0055,UG,4
+2019,553,407,640000,23,National Institute of Technology Silchar,IR-E-U-0055,UG,4
+2020,548,407,660000,13,National Institute of Technology Silchar,IR-E-U-0055,UG,4
+2018,167,9,519000,73,National Institute of Technology Silchar,IR-E-U-0055,PG,2
+2019,185,25,525000,75,National Institute of Technology Silchar,IR-E-U-0055,PG,2
+2018,161,90,325000,22,Shri Mata Vaishno Devi University,IR-E-U-0201,UG,4
+2019,110,55,350000,22,Shri Mata Vaishno Devi University,IR-E-U-0201,UG,4
+2020,172,129,350000,28,Shri Mata Vaishno Devi University,IR-E-U-0201,UG,4
+2018,47,6,478000,15,Shri Mata Vaishno Devi University,IR-E-U-0201,PG,2
+2019,61,18,600000,7,Shri Mata Vaishno Devi University,IR-E-U-0201,PG,2
+2018,977,638,385000,84,Jaypee Institute of Information Technology,IR-E-U-0522,UG,4
+2019,1074,858,400000,112,Jaypee Institute of Information Technology,IR-E-U-0522,UG,4
+2020,1033,793,500000,125,Jaypee Institute of Information Technology,IR-E-U-0522,UG,4
+2018,55,10,375000,24,Jaypee Institute of Information Technology,IR-E-U-0522,PG,2
+2019,47,5,380000,26,Jaypee Institute of Information Technology,IR-E-U-0522,PG,2
+2018,85,58,450000,25,Jaypee Institute of Information Technology,IR-E-U-0522,PG-Integrated,5
+2019,80,60,475000,14,Jaypee Institute of Information Technology,IR-E-U-0522,PG-Integrated,5
+2020,65,46,500000,12,Jaypee Institute of Information Technology,IR-E-U-0522,PG-Integrated,5
+2018,614,373,500000,48,Panjab University,IR-E-U-0078,UG,4
+2019,625,368,700000,54,Panjab University,IR-E-U-0078,UG,4
+2020,650,297,480000,55,Panjab University,IR-E-U-0078,UG,4
+2018,26,16,450000,0,Panjab University,IR-E-U-0078,UG,5
+2019,13,13,595000,0,Panjab University,IR-E-U-0078,UG,5
+2018,110,12,325000,27,Panjab University,IR-E-U-0078,PG,2
+2019,78,21,274000,25,Panjab University,IR-E-U-0078,PG,2
+2020,110,13,500000,28,Panjab University,IR-E-U-0078,PG,2
+2018,1851,972,300000,331,Amity University,IR-E-U-0497,UG,4
+2019,1840,985,375000,252,Amity University,IR-E-U-0497,UG,4
+2020,1838,1038,375000,271,Amity University,IR-E-U-0497,UG,4
+2018,155,111,300000,19,Amity University,IR-E-U-0497,PG,2
+2019,153,124,354000,21,Amity University,IR-E-U-0497,PG,2
+2018,111,57,300000,20,Amity University,IR-E-U-0497,PG-Integrated,5
+2019,95,32,300000,7,Amity University,IR-E-U-0497,PG-Integrated,5
+2020,98,57,355000,6,Amity University,IR-E-U-0497,PG-Integrated,5
+2018,856,758,720000,92,National Institute of Technology Calicut,IR-E-U-0263,UG,4
+2019,832,760,805000,61,National Institute of Technology Calicut,IR-E-U-0263,UG,4
+2020,801,679,898000,58,National Institute of Technology Calicut,IR-E-U-0263,UG,4
+2018,393,308,780000,75,National Institute of Technology Calicut,IR-E-U-0263,PG,2
+2019,399,312,900000,80,National Institute of Technology Calicut,IR-E-U-0263,PG,2
+2020,348,282,950000,57,National Institute of Technology Calicut,IR-E-U-0263,PG,2
+2018,739,503,667000,87,Sardar Vallabhbhai National Institute of Technology,IR-E-U-0149,UG,4
+2019,727,516,672000,76,Sardar Vallabhbhai National Institute of Technology,IR-E-U-0149,UG,4
+2020,720,483,745000,132,Sardar Vallabhbhai National Institute of Technology,IR-E-U-0149,UG,4
+2018,277,109,534000,37,Sardar Vallabhbhai National Institute of Technology,IR-E-U-0149,PG,2
+2019,257,106,550000,32,Sardar Vallabhbhai National Institute of Technology,IR-E-U-0149,PG,2
+2018,812,656,795000,32,Motilal Nehru National Institute of Technology,IR-E-U-0530,UG,4
+2019,832,671,800000,107,Motilal Nehru National Institute of Technology,IR-E-U-0530,UG,4
+2020,861,568,1159000,282,Motilal Nehru National Institute of Technology,IR-E-U-0530,UG,4
+2018,272,106,600000,45,Motilal Nehru National Institute of Technology,IR-E-U-0530,PG,2
+2019,301,84,675000,98,Motilal Nehru National Institute of Technology,IR-E-U-0530,PG,2
+2020,303,101,900000,185,Motilal Nehru National Institute of Technology,IR-E-U-0530,PG,2
+2018,753,524,350000,36,Banasthali Vidyapith,IR-E-U-0389,UG,4
+2019,714,496,460000,49,Banasthali Vidyapith,IR-E-U-0389,UG,4
+2020,719,619,540000,61,Banasthali Vidyapith,IR-E-U-0389,UG,4
+2018,108,13,410000,1,Banasthali Vidyapith,IR-E-U-0389,PG,2
+2019,53,11,390000,5,Banasthali Vidyapith,IR-E-U-0389,PG,2
+2020,60,12,430000,7,Banasthali Vidyapith,IR-E-U-0389,PG,2
+2018,2269,690,380000,384,Sathyabama Institute of Science and Technology,IR-E-U-0474,UG,4
+2019,2451,713,330000,308,Sathyabama Institute of Science and Technology,IR-E-U-0474,UG,4
+2020,2907,723,380000,322,Sathyabama Institute of Science and Technology,IR-E-U-0474,UG,4
+2018,75,56,515000,8,Sathyabama Institute of Science and Technology,IR-E-U-0474,PG,2
+2019,64,57,400000,5,Sathyabama Institute of Science and Technology,IR-E-U-0474,PG,2
+2020,50,45,450000,4,Sathyabama Institute of Science and Technology,IR-E-U-0474,PG,2
+2018,4351,2874,360000,1387,S R M Institute of Science and Technology,IR-E-U-0473,UG,4
+2019,4708,4167,350000,464,S R M Institute of Science and Technology,IR-E-U-0473,UG,4
+2020,5020,4280,360000,391,S R M Institute of Science and Technology,IR-E-U-0473,UG,4
+2018,416,55,400000,13,S R M Institute of Science and Technology,IR-E-U-0473,PG,2
+2019,298,45,350000,10,S R M Institute of Science and Technology,IR-E-U-0473,PG,2
+2020,330,18,360000,7,S R M Institute of Science and Technology,IR-E-U-0473,PG,2
+2018,1995,1731,1100000,206,Birla Institute of Technology Science Pilani,IR-E-U-0391,UG,4
+2019,2135,1866,1250000,247,Birla Institute of Technology Science Pilani,IR-E-U-0391,UG,4
+2020,2020,1788,1400000,136,Birla Institute of Technology Science Pilani,IR-E-U-0391,UG,4
+2018,258,200,1156062,11,Birla Institute of Technology Science Pilani,IR-E-U-0391,PG,2
+2019,435,349,840000,18,Birla Institute of Technology Science Pilani,IR-E-U-0391,PG,2
+2020,619,476,1250000,52,Birla Institute of Technology Science Pilani,IR-E-U-0391,PG,2
+2018,538,490,598000,39,National Institute of Technology Rourkela,IR-E-U-0357,UG,4
+2019,511,452,650000,48,National Institute of Technology Rourkela,IR-E-U-0357,UG,4
+2020,544,430,711000,80,National Institute of Technology Rourkela,IR-E-U-0357,UG,4
+2018,552,263,500000,65,National Institute of Technology Rourkela,IR-E-U-0357,PG,2
+2019,465,354,500000,72,National Institute of Technology Rourkela,IR-E-U-0357,PG,2
+2020,595,227,600000,138,National Institute of Technology Rourkela,IR-E-U-0357,PG,2
+2018,188,133,565000,52,National Institute of Technology Rourkela,IR-E-U-0357,PG-Integrated,5
+2019,173,134,600000,38,National Institute of Technology Rourkela,IR-E-U-0357,PG-Integrated,5
+2020,190,99,750000,35,National Institute of Technology Rourkela,IR-E-U-0357,PG-Integrated,5
+2018,499,395,400000,89,The Northcap University,IR-E-U-0163,UG,4
+2019,424,332,360000,50,The Northcap University,IR-E-U-0163,UG,4
+2020,577,392,385000,105,The Northcap University,IR-E-U-0163,UG,4
+2018,26,22,450000,4,The Northcap University,IR-E-U-0163,PG,2
+2019,12,6,425000,6,The Northcap University,IR-E-U-0163,PG,2
+2018,115,81,540000,4,National Institute of Technology Meghalaya,IR-E-U-0619,UG,4
+2019,115,104,500000,6,National Institute of Technology Meghalaya,IR-E-U-0619,UG,4
+2020,123,105,500000,6,National Institute of Technology Meghalaya,IR-E-U-0619,UG,4
+2018,56,5,325000,24,National Institute of Technology Meghalaya,IR-E-U-0619,PG,2
+2019,57,6,450000,24,National Institute of Technology Meghalaya,IR-E-U-0619,PG,2
+2020,56,24,550000,20,National Institute of Technology Meghalaya,IR-E-U-0619,PG,2
+2018,119,92,950000,11,Indian Institute of Technology Jodhpur,IR-E-U-0395,UG,4
+2019,106,73,900000,7,Indian Institute of Technology Jodhpur,IR-E-U-0395,UG,4
+2020,112,76,1225000,2,Indian Institute of Technology Jodhpur,IR-E-U-0395,UG,4
+2018,44,19,820000,2,Indian Institute of Technology Jodhpur,IR-E-U-0395,PG,2
+2019,73,12,570000,11,Indian Institute of Technology Jodhpur,IR-E-U-0395,PG,2
+2020,83,17,1150000,25,Indian Institute of Technology Jodhpur,IR-E-U-0395,PG,2
+2018,1771,1523,350000,180,Shanmugha Arts Science Technology Research Academy,IR-E-U-0476,UG,4
+2019,1458,1241,500000,121,Shanmugha Arts Science Technology Research Academy,IR-E-U-0476,UG,4
+2020,1761,1543,500000,122,Shanmugha Arts Science Technology Research Academy,IR-E-U-0476,UG,4
+2018,113,91,350000,16,Shanmugha Arts Science Technology Research Academy,IR-E-U-0476,PG,2
+2019,128,83,360000,25,Shanmugha Arts Science Technology Research Academy,IR-E-U-0476,PG,2
+2018,162,134,350000,24,Shanmugha Arts Science Technology Research Academy,IR-E-U-0476,PG-Integrated,5
+2019,147,121,400000,18,Shanmugha Arts Science Technology Research Academy,IR-E-U-0476,PG-Integrated,5
+2020,112,89,400000,16,Shanmugha Arts Science Technology Research Academy,IR-E-U-0476,PG-Integrated,5
+2018,758,435,1100000,39,Netaji Subhas University of Technology NSUT ,IR-E-C-6379,UG,4
+2019,875,584,1100000,34,Netaji Subhas University of Technology NSUT ,IR-E-C-6379,UG,4
+2020,838,783,1200000,38,Netaji Subhas University of Technology NSUT ,IR-E-C-6379,UG,4
+2018,69,15,1000000,3,Netaji Subhas University of Technology NSUT ,IR-E-C-6379,PG,2
+2019,84,44,710000,4,Netaji Subhas University of Technology NSUT ,IR-E-C-6379,PG,2
+2020,107,87,900000,14,Netaji Subhas University of Technology NSUT ,IR-E-C-6379,PG,2
+2018,351,245,620000,37,Indian Institute of Engineering Science and Technology,IR-E-U-0584,UG,4
+2019,457,330,650000,52,Indian Institute of Engineering Science and Technology,IR-E-U-0584,UG,4
+2020,540,381,700000,56,Indian Institute of Engineering Science and Technology,IR-E-U-0584,UG,4
+2018,184,43,625000,63,Indian Institute of Engineering Science and Technology,IR-E-U-0584,PG,2
+2019,182,38,680000,68,Indian Institute of Engineering Science and Technology,IR-E-U-0584,PG,2
+2020,191,45,700000,69,Indian Institute of Engineering Science and Technology,IR-E-U-0584,PG,2
+2018,0,0,0,0,Indian Institute of Engineering Science and Technology,IR-E-U-0584,PG-Integrated,5
+2019,46,11,680000,2,Indian Institute of Engineering Science and Technology,IR-E-U-0584,PG-Integrated,5
+2020,59,16,700000,11,Indian Institute of Engineering Science and Technology,IR-E-U-0584,PG-Integrated,5
+2018,826,654,710000,26,Indian Institute of Technology Indian School of Mines ,IR-E-U-0205,UG,4
+2019,777,614,840000,32,Indian Institute of Technology Indian School of Mines ,IR-E-U-0205,UG,4
+2020,745,537,1100000,14,Indian Institute of Technology Indian School of Mines ,IR-E-U-0205,UG,4
+2018,125,101,960000,9,Indian Institute of Technology Indian School of Mines ,IR-E-U-0205,UG,5
+2019,107,81,1245000,4,Indian Institute of Technology Indian School of Mines ,IR-E-U-0205,UG,5
+2020,86,69,1300000,1,Indian Institute of Technology Indian School of Mines ,IR-E-U-0205,UG,5
+2018,658,382,600000,92,Indian Institute of Technology Indian School of Mines ,IR-E-U-0205,PG,2
+2019,669,373,625000,100,Indian Institute of Technology Indian School of Mines ,IR-E-U-0205,PG,2
+2020,468,177,625000,78,Indian Institute of Technology Indian School of Mines ,IR-E-U-0205,PG,2
+2018,629,268,325000,110,Pandit Deendayal Petroleum University,IR-E-U-0147,UG,4
+2019,630,299,360000,275,Pandit Deendayal Petroleum University,IR-E-U-0147,UG,4
+2020,756,375,400000,201,Pandit Deendayal Petroleum University,IR-E-U-0147,UG,4
+2018,109,23,357000,5,Pandit Deendayal Petroleum University,IR-E-U-0147,PG,2
+2019,105,34,300000,6,Pandit Deendayal Petroleum University,IR-E-U-0147,PG,2
+2018,1145,875,470000,194,M S Ramaiah Institute of Technology,IR-E-C-1331,UG,4
+2019,1137,847,520000,189,M S Ramaiah Institute of Technology,IR-E-C-1331,UG,4
+2020,1121,742,450000,153,M S Ramaiah Institute of Technology,IR-E-C-1331,UG,4
+2018,195,135,450000,9,M S Ramaiah Institute of Technology,IR-E-C-1331,PG,2
+2019,183,146,600000,5,M S Ramaiah Institute of Technology,IR-E-C-1331,PG,2
+2020,181,124,500000,6,M S Ramaiah Institute of Technology,IR-E-C-1331,PG,2
+2018,626,524,784000,102,Veermata Jijabai Technological Institute VJTI Mumbai ,IR-E-C-33641,UG,4
+2019,622,501,765000,112,Veermata Jijabai Technological Institute VJTI Mumbai ,IR-E-C-33641,UG,4
+2020,655,466,701200,76,Veermata Jijabai Technological Institute VJTI Mumbai ,IR-E-C-33641,UG,4
+2018,354,207,670000,13,Veermata Jijabai Technological Institute VJTI Mumbai ,IR-E-C-33641,PG,2
+2019,345,210,600000,7,Veermata Jijabai Technological Institute VJTI Mumbai ,IR-E-C-33641,PG,2
+2020,328,149,602000,4,Veermata Jijabai Technological Institute VJTI Mumbai ,IR-E-C-33641,PG,2
+2018,102,57,700000,34,Indian Institute of Technology Gandhinagar,IR-E-U-0139,UG,4
+2019,120,60,725000,23,Indian Institute of Technology Gandhinagar,IR-E-U-0139,UG,4
+2020,156,82,896500,37,Indian Institute of Technology Gandhinagar,IR-E-U-0139,UG,4
+2018,85,62,625000,15,Indian Institute of Technology Gandhinagar,IR-E-U-0139,PG,2
+2019,98,58,730000,25,Indian Institute of Technology Gandhinagar,IR-E-U-0139,PG,2
+2020,97,48,840000,27,Indian Institute of Technology Gandhinagar,IR-E-U-0139,PG,2
+2018,33,9,180000,24,Indian Institute of Food Processing Technology IIFPT ,IR-E-C-45375,UG,4
+2019,41,10,273000,31,Indian Institute of Food Processing Technology IIFPT ,IR-E-C-45375,UG,4
+2020,40,21,320000,19,Indian Institute of Food Processing Technology IIFPT ,IR-E-C-45375,UG,4
+2018,28,13,358530,9,Indian Institute of Food Processing Technology IIFPT ,IR-E-C-45375,PG,2
+2019,37,18,332870,14,Indian Institute of Food Processing Technology IIFPT ,IR-E-C-45375,PG,2
+2018,240,118,850000,7,Defence Institute of Advanced Technology,IR-E-U-0297,PG,2
+2019,248,144,700000,25,Defence Institute of Advanced Technology,IR-E-U-0297,PG,2
+2020,240,190,1500000,40,Defence Institute of Advanced Technology,IR-E-U-0297,PG,2
+2018,630,300,511000,32,National Institute of Technology Agartala,IR-E-U-0493,UG,4
+2019,627,350,550000,50,National Institute of Technology Agartala,IR-E-U-0493,UG,4
+2020,518,353,695000,55,National Institute of Technology Agartala,IR-E-U-0493,UG,4
+2018,171,14,479000,7,National Institute of Technology Agartala,IR-E-U-0493,PG,2
+2019,169,18,525000,31,National Institute of Technology Agartala,IR-E-U-0493,PG,2
+2020,180,47,634000,60,National Institute of Technology Agartala,IR-E-U-0493,PG,2
+2018,7,1,600000,1,National Institute of Technology Agartala,IR-E-U-0493,PG-Integrated,5
+2019,7,0,0,0,National Institute of Technology Agartala,IR-E-U-0493,PG-Integrated,5
+2020,6,3,450000,1,National Institute of Technology Agartala,IR-E-U-0493,PG-Integrated,5
+2018,800,633,400000,120,Sri Sivasubramaniya Nadar College of Engineering,IR-E-C-16604,UG,4
+2019,787,642,440000,123,Sri Sivasubramaniya Nadar College of Engineering,IR-E-C-16604,UG,4
+2020,703,579,500000,107,Sri Sivasubramaniya Nadar College of Engineering,IR-E-C-16604,UG,4
+2018,95,64,414000,2,Sri Sivasubramaniya Nadar College of Engineering,IR-E-C-16604,PG,2
+2019,71,62,440000,5,Sri Sivasubramaniya Nadar College of Engineering,IR-E-C-16604,PG,2
+2020,81,68,450000,3,Sri Sivasubramaniya Nadar College of Engineering,IR-E-C-16604,PG,2
+2018,2036,680,300000,428,Koneru Lakshmaiah Education Foundation University K L College of Engineering ,IR-E-U-0020,UG,4
+2019,2587,933,350000,403,Koneru Lakshmaiah Education Foundation University K L College of Engineering ,IR-E-U-0020,UG,4
+2020,3123,1565,435000,310,Koneru Lakshmaiah Education Foundation University K L College of Engineering ,IR-E-U-0020,UG,4
+2018,144,78,360000,48,Koneru Lakshmaiah Education Foundation University K L College of Engineering ,IR-E-U-0020,PG,2
+2019,242,117,450000,54,Koneru Lakshmaiah Education Foundation University K L College of Engineering ,IR-E-U-0020,PG,2
+2020,316,106,450000,58,Koneru Lakshmaiah Education Foundation University K L College of Engineering ,IR-E-U-0020,PG,2
+2018,1182,709,350000,82,PSG College of Technology,IR-E-C-37013,UG,4
+2019,1181,654,400000,125,PSG College of Technology,IR-E-C-37013,UG,4
+2020,1017,628,420000,81,PSG College of Technology,IR-E-C-37013,UG,4
+2018,171,113,350000,4,PSG College of Technology,IR-E-C-37013,UG,5
+2019,183,96,400000,5,PSG College of Technology,IR-E-C-37013,UG,5
+2020,166,115,420000,4,PSG College of Technology,IR-E-C-37013,UG,5
+2018,286,91,353569,5,PSG College of Technology,IR-E-C-37013,PG,2
+2019,260,91,450000,1,PSG College of Technology,IR-E-C-37013,PG,2
+2020,286,99,420000,3,PSG College of Technology,IR-E-C-37013,PG,2
+2018,329,256,1500000,11,Indian Institute of Information Technology Allahabad,IR-E-U-0516,UG,4
+2019,311,257,1293000,12,Indian Institute of Information Technology Allahabad,IR-E-U-0516,UG,4
+2020,211,184,1900000,10,Indian Institute of Information Technology Allahabad,IR-E-U-0516,UG,4
+2018,72,60,1600000,10,Indian Institute of Information Technology Allahabad,IR-E-U-0516,PG,2
+2019,81,55,1040000,11,Indian Institute of Information Technology Allahabad,IR-E-U-0516,PG,2
+2020,97,62,1150000,13,Indian Institute of Information Technology Allahabad,IR-E-U-0516,PG,2
+2018,0,0,0,0,Indian Institute of Information Technology Allahabad,IR-E-U-0516,PG-Integrated,5
+2019,22,0,0,22,Indian Institute of Information Technology Allahabad,IR-E-U-0516,PG-Integrated,5
+2020,26,2,945700,24,Indian Institute of Information Technology Allahabad,IR-E-U-0516,PG-Integrated,5
+2018,454,352,600000,35,National Institute of Technology Patna,IR-E-U-0072,UG,4
+2019,473,419,600000,48,National Institute of Technology Patna,IR-E-U-0072,UG,4
+2020,438,423,650000,10,National Institute of Technology Patna,IR-E-U-0072,UG,4
+2018,179,22,360000,45,National Institute of Technology Patna,IR-E-U-0072,PG,2
+2019,176,2,360000,47,National Institute of Technology Patna,IR-E-U-0072,PG,2
+2020,196,26,360000,58,National Institute of Technology Patna,IR-E-U-0072,PG,2
+2018,196,115,1030000,59,Indian Institute of Technology Hyderabad,IR-E-U-0013,UG,4
+2019,191,124,1200000,40,Indian Institute of Technology Hyderabad,IR-E-U-0013,UG,4
+2020,219,144,1700000,44,Indian Institute of Technology Hyderabad,IR-E-U-0013,UG,4
+2018,129,72,1000000,10,Indian Institute of Technology Hyderabad,IR-E-U-0013,PG,2
+2019,123,76,1075000,33,Indian Institute of Technology Hyderabad,IR-E-U-0013,PG,2
+2020,148,93,1570000,16,Indian Institute of Technology Hyderabad,IR-E-U-0013,PG,2
+2018,35,22,1200000,3,Indian Institute of Technology Hyderabad,IR-E-U-0013,PG,3
+2019,13,10,1360000,0,Indian Institute of Technology Hyderabad,IR-E-U-0013,PG,3
+2020,20,15,2376000,3,Indian Institute of Technology Hyderabad,IR-E-U-0013,PG,3
+2018,158,130,880000,16,Indian Institute of Technology Bhubaneswar,IR-E-U-0355,UG,4
+2019,148,120,900000,11,Indian Institute of Technology Bhubaneswar,IR-E-U-0355,UG,4
+2020,195,156,1350000,4,Indian Institute of Technology Bhubaneswar,IR-E-U-0355,UG,4
+2018,0,0,0,0,Indian Institute of Technology Bhubaneswar,IR-E-U-0355,UG,5
+2019,0,0,0,0,Indian Institute of Technology Bhubaneswar,IR-E-U-0355,UG,5
+2018,90,53,620000,24,Indian Institute of Technology Bhubaneswar,IR-E-U-0355,PG,2
+2019,103,66,650000,15,Indian Institute of Technology Bhubaneswar,IR-E-U-0355,PG,2
+2020,139,65,1150000,31,Indian Institute of Technology Bhubaneswar,IR-E-U-0355,PG,2
+2018,56,33,600000,7,Indian Institute of Information Technology Guwahati,IR-E-U-0795,UG,4
+2019,58,35,600000,11,Indian Institute of Information Technology Guwahati,IR-E-U-0795,UG,4
+2020,51,34,625000,5,Indian Institute of Information Technology Guwahati,IR-E-U-0795,UG,4
+2018,0,0,0,0,Indian Institute of Information Technology Guwahati,IR-E-U-0795,PG,2
+2019,0,0,0,0,Indian Institute of Information Technology Guwahati,IR-E-U-0795,PG,2
+2020,26,10,650000,3,Indian Institute of Information Technology Guwahati,IR-E-U-0795,PG,2
+2018,776,646,320000,116,Bharati Vidyapeeth Deemed University College of Engineering,IR-E-C-35417,UG,4
+2019,780,656,320000,119,Bharati Vidyapeeth Deemed University College of Engineering,IR-E-C-35417,UG,4
+2020,786,663,350000,119,Bharati Vidyapeeth Deemed University College of Engineering,IR-E-C-35417,UG,4
+2018,102,80,510000,14,Bharati Vidyapeeth Deemed University College of Engineering,IR-E-C-35417,PG,2
+2019,110,88,550000,18,Bharati Vidyapeeth Deemed University College of Engineering,IR-E-C-35417,PG,2
+2020,111,91,600000,19,Bharati Vidyapeeth Deemed University College of Engineering,IR-E-C-35417,PG,2
+2018,640,422,660000,54,Birla Institute of Technology,IR-E-U-0202,UG,4
+2019,585,412,800000,21,Birla Institute of Technology,IR-E-U-0202,UG,4
+2020,691,421,843000,6,Birla Institute of Technology,IR-E-U-0202,UG,4
+2018,148,32,600000,37,Birla Institute of Technology,IR-E-U-0202,PG,2
+2019,177,35,350000,36,Birla Institute of Technology,IR-E-U-0202,PG,2
+2020,108,17,600000,7,Birla Institute of Technology,IR-E-U-0202,PG,2
+2018,572,412,1011000,63,Indian Institute of Technology Bombay,IR-E-U-0306,UG,4
+2019,615,430,1178400,125,Indian Institute of Technology Bombay,IR-E-U-0306,UG,4
+2020,613,448,1300000,116,Indian Institute of Technology Bombay,IR-E-U-0306,UG,4
+2018,499,376,793047,0,Indian Institute of Technology Bombay,IR-E-U-0306,PG,2
+2019,456,369,1026708,37,Indian Institute of Technology Bombay,IR-E-U-0306,PG,2
+2020,505,343,1200000,23,Indian Institute of Technology Bombay,IR-E-U-0306,PG,2
+2018,2402,1135,320000,165,Lovely Professional University,IR-E-U-0379,UG,4
+2019,2512,1302,350000,115,Lovely Professional University,IR-E-U-0379,UG,4
+2020,3936,2139,441000,129,Lovely Professional University,IR-E-U-0379,UG,4
+2018,193,59,300000,16,Lovely Professional University,IR-E-U-0379,PG,2
+2019,139,25,338005,14,Lovely Professional University,IR-E-U-0379,PG,2
+2020,107,28,480000,1,Lovely Professional University,IR-E-U-0379,PG,2
+2018,73,27,300000,2,Lovely Professional University,IR-E-U-0379,PG-Integrated,5
+2019,46,13,420000,2,Lovely Professional University,IR-E-U-0379,PG-Integrated,5
+2020,28,23,465000,0,Lovely Professional University,IR-E-U-0379,PG-Integrated,5
+2018,394,139,478000,156,Aligarh Muslim University,IR-E-U-0496,UG,4
+2019,370,121,450000,164,Aligarh Muslim University,IR-E-U-0496,UG,4
+2020,348,148,500000,119,Aligarh Muslim University,IR-E-U-0496,UG,4
+2018,127,28,525000,37,Aligarh Muslim University,IR-E-U-0496,PG,2
+2019,55,19,462000,24,Aligarh Muslim University,IR-E-U-0496,PG,2
+2018,1183,383,336000,52,Jawaharlal Nehru Technological University,IR-E-U-0017,UG,4
+2019,1030,371,375000,45,Jawaharlal Nehru Technological University,IR-E-U-0017,UG,4
+2020,1030,444,365000,209,Jawaharlal Nehru Technological University,IR-E-U-0017,UG,4
+2018,534,237,660000,133,Jawaharlal Nehru Technological University,IR-E-U-0017,PG,2
+2019,406,132,505000,11,Jawaharlal Nehru Technological University,IR-E-U-0017,PG,2
+2018,297,246,245000,51,Visvesvaraya Technological University,IR-E-U-0249,PG,2
+2019,326,230,250000,96,Visvesvaraya Technological University,IR-E-U-0249,PG,2
+2020,379,120,310000,155,Visvesvaraya Technological University,IR-E-U-0249,PG,2
+2018,310,199,165000,111,Visvesvaraya Technological University,IR-E-U-0249,PG,3
+2019,200,177,150000,23,Visvesvaraya Technological University,IR-E-U-0249,PG,3
+2020,204,21,270000,14,Visvesvaraya Technological University,IR-E-U-0249,PG,3
+2018,2981,2115,350000,15,Kalinga Institute of Industrial Technology,IR-E-U-0356,UG,4
+2019,3673,3329,420000,211,Kalinga Institute of Industrial Technology,IR-E-U-0356,UG,4
+2020,3771,3511,520000,218,Kalinga Institute of Industrial Technology,IR-E-U-0356,UG,4
+2018,138,98,800000,40,Kalinga Institute of Industrial Technology,IR-E-U-0356,PG,2
+2019,105,98,800000,7,Kalinga Institute of Industrial Technology,IR-E-U-0356,PG,2
+2020,106,99,800000,7,Kalinga Institute of Industrial Technology,IR-E-U-0356,PG,2
+2018,2354,1177,500000,153,Anna University,IR-E-U-0439,UG,4
+2019,2558,1302,500000,107,Anna University,IR-E-U-0439,UG,4
+2020,2260,1128,550000,157,Anna University,IR-E-U-0439,UG,4
+2018,1325,271,420000,37,Anna University,IR-E-U-0439,PG,2
+2019,1149,415,420000,32,Anna University,IR-E-U-0439,PG,2
+2018,1017,757,700000,87,R V College of Engineering,IR-E-C-1269,UG,4
+2019,950,675,800000,59,R V College of Engineering,IR-E-C-1269,UG,4
+2020,1063,721,850000,78,R V College of Engineering,IR-E-C-1269,UG,4
+2018,298,179,500000,6,R V College of Engineering,IR-E-C-1269,PG,2
+2019,299,164,600000,4,R V College of Engineering,IR-E-C-1269,PG,2
+2020,243,160,650000,2,R V College of Engineering,IR-E-C-1269,PG,2
+2018,571,429,1330000,57,Indian Institute of Technology Guwahati,IR-E-U-0053,UG,4
+2019,612,478,1500000,42,Indian Institute of Technology Guwahati,IR-E-U-0053,UG,4
+2020,606,491,1800000,51,Indian Institute of Technology Guwahati,IR-E-U-0053,UG,4
+2018,502,164,900000,92,Indian Institute of Technology Guwahati,IR-E-U-0053,PG,2
+2019,525,175,800000,109,Indian Institute of Technology Guwahati,IR-E-U-0053,PG,2
+2020,540,196,1300000,121,Indian Institute of Technology Guwahati,IR-E-U-0053,PG,2
+2018,820,651,710000,73,National Institute of Technology Karnataka,IR-E-U-0237,UG,4
+2019,787,684,800000,92,National Institute of Technology Karnataka,IR-E-U-0237,UG,4
+2020,756,629,986000,57,National Institute of Technology Karnataka,IR-E-U-0237,UG,4
+2018,460,415,700000,27,National Institute of Technology Karnataka,IR-E-U-0237,PG,2
+2019,461,426,710000,23,National Institute of Technology Karnataka,IR-E-U-0237,PG,2
+2020,488,322,930000,129,National Institute of Technology Karnataka,IR-E-U-0237,PG,2
+2018,654,589,1100000,41,Indian Institute of Technology Banaras Hindu University Varanasi,IR-E-U-0701,UG,4
+2019,754,699,1360000,35,Indian Institute of Technology Banaras Hindu University Varanasi,IR-E-U-0701,UG,4
+2020,751,680,1348000,25,Indian Institute of Technology Banaras Hindu University Varanasi,IR-E-U-0701,UG,4
+2018,212,150,625000,49,Indian Institute of Technology Banaras Hindu University Varanasi,IR-E-U-0701,PG,2
+2019,252,195,809000,57,Indian Institute of Technology Banaras Hindu University Varanasi,IR-E-U-0701,PG,2
+2020,293,190,1508000,52,Indian Institute of Technology Banaras Hindu University Varanasi,IR-E-U-0701,PG,2
+2018,1004,635,636000,131,B M S College of Engineering,IR-E-C-1262,UG,4
+2019,1019,571,700000,137,B M S College of Engineering,IR-E-C-1262,UG,4
+2020,1157,700,760000,101,B M S College of Engineering,IR-E-C-1262,UG,4
+2018,182,165,550000,9,B M S College of Engineering,IR-E-C-1262,PG,2
+2019,165,129,570000,5,B M S College of Engineering,IR-E-C-1262,PG,2
+2020,149,123,600000,8,B M S College of Engineering,IR-E-C-1262,PG,2
+2018,1559,804,550000,318,Manipal Institute of Technology,IR-E-C-7252,UG,4
+2019,1711,545,550000,210,Manipal Institute of Technology,IR-E-C-7252,UG,4
+2020,1633,718,720000,197,Manipal Institute of Technology,IR-E-C-7252,UG,4
+2018,407,170,555000,17,Manipal Institute of Technology,IR-E-C-7252,PG,2
+2019,391,194,631000,18,Manipal Institute of Technology,IR-E-C-7252,PG,2
+2020,374,164,764000,12,Manipal Institute of Technology,IR-E-C-7252,PG,2
+2018,1743,1084,335000,475,Amrita Vishwa Vidyapeetham,IR-E-U-0436,UG,4
+2019,1768,1199,400000,343,Amrita Vishwa Vidyapeetham,IR-E-U-0436,UG,4
+2020,2101,1569,450000,366,Amrita Vishwa Vidyapeetham,IR-E-U-0436,UG,4
+2018,645,237,435000,210,Amrita Vishwa Vidyapeetham,IR-E-U-0436,PG,2
+2019,632,294,485000,265,Amrita Vishwa Vidyapeetham,IR-E-U-0436,PG,2
+2020,337,218,400000,15,Amrita Vishwa Vidyapeetham,IR-E-U-0436,PG,2
+2018,119,107,2035000,12,International Institute of Information Technology Hyderabad,IR-E-U-0014,UG,4
+2019,134,113,2210000,13,International Institute of Information Technology Hyderabad,IR-E-U-0014,UG,4
+2020,114,106,2100000,6,International Institute of Information Technology Hyderabad,IR-E-U-0014,UG,4
+2018,56,53,2250000,3,International Institute of Information Technology Hyderabad,IR-E-U-0014,UG,5
+2019,87,73,1875000,11,International Institute of Information Technology Hyderabad,IR-E-U-0014,UG,5
+2020,67,66,2200000,1,International Institute of Information Technology Hyderabad,IR-E-U-0014,UG,5
+2018,110,107,1625000,0,International Institute of Information Technology Hyderabad,IR-E-U-0014,PG,2
+2019,107,102,1900000,0,International Institute of Information Technology Hyderabad,IR-E-U-0014,PG,2
+2020,141,136,1600000,5,International Institute of Information Technology Hyderabad,IR-E-U-0014,PG,2
+2018,1551,1110,400000,50,University of Petroleum and Energy Studies,IR-E-U-0564,UG,4
+2019,1802,1298,400000,76,University of Petroleum and Energy Studies,IR-E-U-0564,UG,4
+2020,1842,1360,450000,74,University of Petroleum and Energy Studies,IR-E-U-0564,UG,4
+2018,185,77,450000,17,University of Petroleum and Energy Studies,IR-E-U-0564,PG,2
+2019,155,94,510000,2,University of Petroleum and Energy Studies,IR-E-U-0564,PG,2
+2020,146,98,525000,6,University of Petroleum and Energy Studies,IR-E-U-0564,PG,2
+2018,761,442,670000,56,National Institute of Technology Raipur,IR-E-U-0092,UG,4
+2019,753,466,650000,77,National Institute of Technology Raipur,IR-E-U-0092,UG,4
+2020,754,464,810000,129,National Institute of Technology Raipur,IR-E-U-0092,UG,4
+2018,87,7,600000,14,National Institute of Technology Raipur,IR-E-U-0092,PG,2
+2019,115,22,547500,2,National Institute of Technology Raipur,IR-E-U-0092,PG,2
+2020,99,14,615000,23,National Institute of Technology Raipur,IR-E-U-0092,PG,2
+2018,15,9,420000,3,National Institute of Technology Raipur,IR-E-U-0092,PG,3
+2019,14,0,0,1,National Institute of Technology Raipur,IR-E-U-0092,PG,3
+2020,11,0,0,8,National Institute of Technology Raipur,IR-E-U-0092,PG,3
+2018,728,525,315000,96,Vel Tech Rangarajan Dr Sagunthala R D Institute of Science and Technology,IR-E-U-0489,UG,4
+2019,505,353,415000,61,Vel Tech Rangarajan Dr Sagunthala R D Institute of Science and Technology,IR-E-U-0489,UG,4
+2020,916,728,420000,65,Vel Tech Rangarajan Dr Sagunthala R D Institute of Science and Technology,IR-E-U-0489,UG,4
+2018,90,64,450000,4,Vel Tech Rangarajan Dr Sagunthala R D Institute of Science and Technology,IR-E-U-0489,PG,2
+2019,124,93,500000,5,Vel Tech Rangarajan Dr Sagunthala R D Institute of Science and Technology,IR-E-U-0489,PG,2
+2018,511,366,650000,41,Punjab Engineering College Deemed to be University Chandigarh,IR-E-U-0080,UG,4
+2019,487,419,700000,54,Punjab Engineering College Deemed to be University Chandigarh,IR-E-U-0080,UG,4
+2020,640,533,871000,46,Punjab Engineering College Deemed to be University Chandigarh,IR-E-U-0080,UG,4
+2018,192,97,490000,19,Punjab Engineering College Deemed to be University Chandigarh,IR-E-U-0080,PG,2
+2019,190,116,625000,27,Punjab Engineering College Deemed to be University Chandigarh,IR-E-U-0080,PG,2
+2018,892,485,367000,65,Manipal University Jaipur,IR-E-U-0749,UG,4
+2019,913,623,412000,107,Manipal University Jaipur,IR-E-U-0749,UG,4
+2020,1151,780,450000,139,Manipal University Jaipur,IR-E-U-0749,UG,4
+2018,14,0,0,4,Manipal University Jaipur,IR-E-U-0749,PG,2
+2019,23,4,600000,7,Manipal University Jaipur,IR-E-U-0749,PG,2
+2020,10,4,600000,3,Manipal University Jaipur,IR-E-U-0749,PG,2
+2018,143,120,1200000,23,Indraprastha Institute of Information Technology Delhi,IR-E-U-0105,UG,4
+2019,156,132,1300000,16,Indraprastha Institute of Information Technology Delhi,IR-E-U-0105,UG,4
+2020,223,191,1500000,14,Indraprastha Institute of Information Technology Delhi,IR-E-U-0105,UG,4
+2018,105,96,1000000,5,Indraprastha Institute of Information Technology Delhi,IR-E-U-0105,PG,2
+2019,114,108,1500000,5,Indraprastha Institute of Information Technology Delhi,IR-E-U-0105,PG,2
+2020,206,195,1400000,6,Indraprastha Institute of Information Technology Delhi,IR-E-U-0105,PG,2
+2018,1176,826,380000,187,Kumaraguru College of Technology,IR-E-C-36926,UG,4
+2019,1174,939,338000,192,Kumaraguru College of Technology,IR-E-C-36926,UG,4
+2020,1001,791,400000,99,Kumaraguru College of Technology,IR-E-C-36926,UG,4
+2018,108,56,300000,5,Kumaraguru College of Technology,IR-E-C-36926,PG,2
+2019,80,36,300000,7,Kumaraguru College of Technology,IR-E-C-36926,PG,2
+2018,67,57,380000,4,Kumaraguru College of Technology,IR-E-C-36926,PG,3
+2019,62,57,300000,2,Kumaraguru College of Technology,IR-E-C-36926,PG,3
+2020,59,29,350000,1,Kumaraguru College of Technology,IR-E-C-36926,PG,3
+2018,81,51,537000,18,National Institute of Technology Goa,IR-E-U-0620,UG,4
+2019,66,53,640000,9,National Institute of Technology Goa,IR-E-U-0620,UG,4
+2020,69,54,650000,15,National Institute of Technology Goa,IR-E-U-0620,UG,4
+2018,41,20,480000,8,National Institute of Technology Goa,IR-E-U-0620,PG,2
+2019,40,19,420000,2,National Institute of Technology Goa,IR-E-U-0620,PG,2
+2018,701,514,600000,95,Dr B R Ambedkar National Institute of Technology,IR-E-U-0374,UG,4
+2019,685,490,600000,104,Dr B R Ambedkar National Institute of Technology,IR-E-U-0374,UG,4
+2020,681,438,628000,22,Dr B R Ambedkar National Institute of Technology,IR-E-U-0374,UG,4
+2018,144,68,660000,64,Dr B R Ambedkar National Institute of Technology,IR-E-U-0374,PG,2
+2019,175,71,530000,89,Dr B R Ambedkar National Institute of Technology,IR-E-U-0374,PG,2
+2020,168,43,650000,21,Dr B R Ambedkar National Institute of Technology,IR-E-U-0374,PG,2
+2018,326,278,775000,23,Jamia Millia Islamia,IR-E-U-0108,UG,4
+2019,342,235,720000,81,Jamia Millia Islamia,IR-E-U-0108,UG,4
+2020,347,244,660000,88,Jamia Millia Islamia,IR-E-U-0108,UG,4
+2018,91,72,612500,19,Jamia Millia Islamia,IR-E-U-0108,PG,2
+2019,119,76,700000,37,Jamia Millia Islamia,IR-E-U-0108,PG,2
+2020,125,73,600000,35,Jamia Millia Islamia,IR-E-U-0108,PG,2
+2018,654,431,1306000,70,Indian Institute of Technology Delhi,IR-E-I-1074,UG,4
+2019,615,495,1570000,78,Indian Institute of Technology Delhi,IR-E-I-1074,UG,4
+2020,650,511,1550000,90,Indian Institute of Technology Delhi,IR-E-I-1074,UG,4
+2018,145,109,1500000,15,Indian Institute of Technology Delhi,IR-E-I-1074,UG,5
+2019,92,92,1580000,0,Indian Institute of Technology Delhi,IR-E-I-1074,UG,5
+2020,88,84,1810000,4,Indian Institute of Technology Delhi,IR-E-I-1074,UG,5
+2018,649,219,1200000,87,Indian Institute of Technology Delhi,IR-E-I-1074,PG,2
+2019,635,243,1000000,91,Indian Institute of Technology Delhi,IR-E-I-1074,PG,2
+2020,653,322,1100000,190,Indian Institute of Technology Delhi,IR-E-I-1074,PG,2
+2018,110,86,950000,3,Indian Institute of Technology Mandi,IR-E-U-0184,UG,4
+2019,128,85,1000000,17,Indian Institute of Technology Mandi,IR-E-U-0184,UG,4
+2018,0,0,0,0,Indian Institute of Technology Mandi,IR-E-U-0184,UG,5
+2019,0,0,0,0,Indian Institute of Technology Mandi,IR-E-U-0184,UG,5
+2020,0,0,0,0,Indian Institute of Technology Mandi,IR-E-U-0184,UG,5
+2018,12,8,1225000,3,Indian Institute of Technology Mandi,IR-E-U-0184,PG,2
+2019,59,20,800000,21,Indian Institute of Technology Mandi,IR-E-U-0184,PG,2
+2020,172,59,800000,62,Indian Institute of Technology Mandi,IR-E-U-0184,PG,2
+2018,8,3,700000,3,Indian Institute of Technology Mandi,IR-E-U-0184,PG,3
+2019,5,1,1150000,3,Indian Institute of Technology Mandi,IR-E-U-0184,PG,3
+2020,6,4,800000,2,Indian Institute of Technology Mandi,IR-E-U-0184,PG,3
+2018,0,0,0,0,Indian Institute of Technology Mandi,IR-E-U-0184,PG-Integrated,5
+2019,0,0,0,0,Indian Institute of Technology Mandi,IR-E-U-0184,PG-Integrated,5
+2020,0,0,0,0,Indian Institute of Technology Mandi,IR-E-U-0184,PG-Integrated,5
+2018,892,865,395000,27,C V Raman Global University Odisha,IR-E-C-30045,UG,4
+2019,938,883,420000,48,C V Raman Global University Odisha,IR-E-C-30045,UG,4
+2020,937,627,380000,287,C V Raman Global University Odisha,IR-E-C-30045,UG,4
+2018,13,13,345000,0,C V Raman Global University Odisha,IR-E-C-30045,PG,2
+2019,77,58,340000,19,C V Raman Global University Odisha,IR-E-C-30045,PG,2
+2018,1477,1283,700000,194,Delhi Technological University,IR-E-U-0098,UG,4
+2019,1495,1306,900000,189,Delhi Technological University,IR-E-U-0098,UG,4
+2020,1726,1528,1100000,198,Delhi Technological University,IR-E-U-0098,UG,4
+2018,270,200,1000000,65,Delhi Technological University,IR-E-U-0098,PG,2
+2019,232,196,1000000,36,Delhi Technological University,IR-E-U-0098,PG,2
+2020,250,201,1000000,49,Delhi Technological University,IR-E-U-0098,PG,2
+2018,689,567,650000,65,National Institute of Technology Kurukshetra,IR-E-U-0172,UG,4
+2019,721,542,650000,150,National Institute of Technology Kurukshetra,IR-E-U-0172,UG,4
+2020,707,423,800000,178,National Institute of Technology Kurukshetra,IR-E-U-0172,UG,4
+2018,283,105,500000,32,National Institute of Technology Kurukshetra,IR-E-U-0172,PG,2
+2019,307,139,525000,35,National Institute of Technology Kurukshetra,IR-E-U-0172,PG,2
+2020,294,92,650000,75,National Institute of Technology Kurukshetra,IR-E-U-0172,PG,2
+2018,522,405,410000,36,College of Engineering Trivandrum,IR-E-C-43708,UG,4
+2019,536,336,400000,17,College of Engineering Trivandrum,IR-E-C-43708,UG,4
+2020,532,440,550000,49,College of Engineering Trivandrum,IR-E-C-43708,UG,4
+2018,353,262,360000,5,College of Engineering Trivandrum,IR-E-C-43708,PG,2
+2019,372,133,400000,17,College of Engineering Trivandrum,IR-E-C-43708,PG,2
+2020,362,204,500000,8,College of Engineering Trivandrum,IR-E-C-43708,PG,2
+2018,787,709,530000,68,Jadavpur University,IR-E-U-0575,UG,4
+2019,890,748,830000,132,Jadavpur University,IR-E-U-0575,UG,4
+2020,1003,853,950000,150,Jadavpur University,IR-E-U-0575,UG,4
+2018,304,96,432000,73,Jadavpur University,IR-E-U-0575,PG,2
+2019,410,369,810000,30,Jadavpur University,IR-E-U-0575,PG,2
+2020,417,379,820000,38,Jadavpur University,IR-E-U-0575,PG,2
+2018,139,0,0,0,Jadavpur University,IR-E-U-0575,PG,3
+2019,138,116,916000,15,Jadavpur University,IR-E-U-0575,PG,3
+2020,127,108,896000,19,Jadavpur University,IR-E-U-0575,PG,3
+2018,663,420,600000,110,Visvesvaraya National Institute of Technology,IR-E-U-0334,UG,4
+2019,678,437,600000,178,Visvesvaraya National Institute of Technology,IR-E-U-0334,UG,4
+2020,660,498,853000,154,Visvesvaraya National Institute of Technology,IR-E-U-0334,UG,4
+2018,342,135,540000,72,Visvesvaraya National Institute of Technology,IR-E-U-0334,PG,2
+2019,318,123,600000,92,Visvesvaraya National Institute of Technology,IR-E-U-0334,PG,2
+2020,256,109,840000,96,Visvesvaraya National Institute of Technology,IR-E-U-0334,PG,2
+2018,716,390,325000,65,Graphic Era University,IR-E-U-0555,UG,4
+2019,724,504,380000,65,Graphic Era University,IR-E-U-0555,UG,4
+2020,659,496,380000,22,Graphic Era University,IR-E-U-0555,UG,4
+2018,51,32,350000,12,Graphic Era University,IR-E-U-0555,PG,2
+2019,38,22,350000,14,Graphic Era University,IR-E-U-0555,PG,2
+2018,1160,943,395000,170,Sri Krishna College of Engineering and Technology,IR-E-C-36995,UG,4
+2019,1189,998,462000,191,Sri Krishna College of Engineering and Technology,IR-E-C-36995,UG,4
+2020,1141,977,480000,164,Sri Krishna College of Engineering and Technology,IR-E-C-36995,UG,4
+2018,24,24,400000,0,Sri Krishna College of Engineering and Technology,IR-E-C-36995,PG,2
+2019,53,51,462000,2,Sri Krishna College of Engineering and Technology,IR-E-C-36995,PG,2
+2020,55,52,480000,3,Sri Krishna College of Engineering and Technology,IR-E-C-36995,PG,2
+2018,109,69,882300,4,Indian Institute of Space Science and Technology,IR-E-U-0255,UG,4
+2019,114,91,913668,3,Indian Institute of Space Science and Technology,IR-E-U-0255,UG,4
+2020,113,82,913668,7,Indian Institute of Space Science and Technology,IR-E-U-0255,UG,4
+2018,65,19,800000,10,Indian Institute of Space Science and Technology,IR-E-U-0255,PG,2
+2019,69,23,800000,9,Indian Institute of Space Science and Technology,IR-E-U-0255,PG,2
+2020,69,15,800000,21,Indian Institute of Space Science and Technology,IR-E-U-0255,PG,2
+2018,175,173,1414000,1,International Institute of Information Technology Bangalore,IR-E-U-0221,PG,2
+2019,160,158,1747000,0,International Institute of Information Technology Bangalore,IR-E-U-0221,PG,2
+2020,159,155,2423889,0,International Institute of Information Technology Bangalore,IR-E-U-0221,PG,2
+2018,56,45,1414000,11,International Institute of Information Technology Bangalore,IR-E-U-0221,PG-Integrated,5
+2019,59,45,1747000,10,International Institute of Information Technology Bangalore,IR-E-U-0221,PG-Integrated,5
+2020,61,49,2423889,5,International Institute of Information Technology Bangalore,IR-E-U-0221,PG-Integrated,5
+2018,789,354,1400000,387,Indian Institute of Technology Kanpur,IR-E-I-1075,UG,4
+2019,770,437,1500000,301,Indian Institute of Technology Kanpur,IR-E-I-1075,UG,4
+2020,789,463,1700000,325,Indian Institute of Technology Kanpur,IR-E-I-1075,UG,4
+2018,730,449,1075000,225,Indian Institute of Technology Kanpur,IR-E-I-1075,PG,2
+2019,704,484,1258000,190,Indian Institute of Technology Kanpur,IR-E-I-1075,PG,2
+2018,334,283,1306000,51,Indian Institute of Technology Madras,IR-E-U-0456,UG,4
+2019,362,268,1360000,65,Indian Institute of Technology Madras,IR-E-U-0456,UG,4
+2020,374,286,1500000,43,Indian Institute of Technology Madras,IR-E-U-0456,UG,4
+2018,320,289,875000,15,Indian Institute of Technology Madras,IR-E-U-0456,PG,2
+2019,459,373,1100000,21,Indian Institute of Technology Madras,IR-E-U-0456,PG,2
+2020,302,213,1200000,26,Indian Institute of Technology Madras,IR-E-U-0456,PG,2
+2018,182,113,1100000,36,Indian Institute of Technology Madras,IR-E-U-0456,PG,3
+2019,130,81,1100000,18,Indian Institute of Technology Madras,IR-E-U-0456,PG,3
+2020,165,126,1400000,33,Indian Institute of Technology Madras,IR-E-U-0456,PG,3
+2018,731,567,645000,144,College of Engineering Pune,IR-E-C-41593,UG,4
+2019,724,538,780000,167,College of Engineering Pune,IR-E-C-41593,UG,4
+2020,723,529,787000,174,College of Engineering Pune,IR-E-C-41593,UG,4
+2018,375,237,700000,9,College of Engineering Pune,IR-E-C-41593,PG,2
+2019,403,235,507000,4,College of Engineering Pune,IR-E-C-41593,PG,2
+2020,374,221,534000,10,College of Engineering Pune,IR-E-C-41593,PG,2
+2018,791,685,360000,99,Thiagarajar College of Engineering,IR-E-C-26794,UG,4
+2019,807,679,400000,112,Thiagarajar College of Engineering,IR-E-C-26794,UG,4
+2020,801,637,400000,56,Thiagarajar College of Engineering,IR-E-C-26794,UG,4
+2018,196,39,350000,4,Thiagarajar College of Engineering,IR-E-C-26794,PG,2
+2019,154,59,360000,9,Thiagarajar College of Engineering,IR-E-C-26794,PG,2
+2020,154,42,400000,2,Thiagarajar College of Engineering,IR-E-C-26794,PG,2
+2018,97,78,960000,17,Indian Institute of Technology Ropar,IR-E-U-0378,UG,4
+2019,105,75,1120000,24,Indian Institute of Technology Ropar,IR-E-U-0378,UG,4
+2020,127,102,1220000,4,Indian Institute of Technology Ropar,IR-E-U-0378,UG,4
+2018,0,0,0,0,Indian Institute of Technology Ropar,IR-E-U-0378,PG,3
+2019,6,2,1000000,3,Indian Institute of Technology Ropar,IR-E-U-0378,PG,3
+2020,0,0,0,0,Indian Institute of Technology Ropar,IR-E-U-0378,PG,3
+2018,0,0,0,0,Indian Institute of Technology Ropar,IR-E-U-0378,PG-Integrated,5
+2019,0,0,0,0,Indian Institute of Technology Ropar,IR-E-U-0378,PG-Integrated,5
+2020,7,5,775000,0,Indian Institute of Technology Ropar,IR-E-U-0378,PG-Integrated,5
+2018,205,113,575000,83,Institute of Chemical Technology,IR-E-U-0308,UG,4
+2019,214,99,475000,84,Institute of Chemical Technology,IR-E-U-0308,UG,4
+2020,244,92,700000,73,Institute of Chemical Technology,IR-E-U-0308,UG,4
+2018,170,96,530000,23,Institute of Chemical Technology,IR-E-U-0308,PG,2
+2019,186,104,480000,10,Institute of Chemical Technology,IR-E-U-0308,PG,2
+2018,0,0,0,0,Institute of Chemical Technology,IR-E-U-0308,PG-Integrated,5
+2019,0,0,0,0,Institute of Chemical Technology,IR-E-U-0308,PG-Integrated,5
+2020,0,0,0,0,Institute of Chemical Technology,IR-E-U-0308,PG-Integrated,5
+2018,1284,965,350000,222,Siksha O Anusandhan,IR-E-U-0363,UG,4
+2019,1638,1395,350000,194,Siksha O Anusandhan,IR-E-U-0363,UG,4
+2020,1971,1798,360000,113,Siksha O Anusandhan,IR-E-U-0363,UG,4
+2018,76,65,325000,8,Siksha O Anusandhan,IR-E-U-0363,PG,2
+2019,50,16,325000,30,Siksha O Anusandhan,IR-E-U-0363,PG,2
+2020,30,25,350000,5,Siksha O Anusandhan,IR-E-U-0363,PG,2
+2018,973,730,500000,150,PES University,IR-E-U-0733,UG,4
+2019,936,704,650000,120,PES University,IR-E-U-0733,UG,4
+2020,1230,934,720000,178,PES University,IR-E-U-0733,UG,4
+2018,93,63,588500,3,PES University,IR-E-U-0733,PG,2
+2019,93,31,615250,2,PES University,IR-E-U-0733,PG,2
+2018,623,468,625000,16,Malaviya National Institute of Technology,IR-E-U-0410,UG,4
+2019,565,475,680000,19,Malaviya National Institute of Technology,IR-E-U-0410,UG,4
+2020,623,443,700000,23,Malaviya National Institute of Technology,IR-E-U-0410,UG,4
+2018,363,68,600000,9,Malaviya National Institute of Technology,IR-E-U-0410,PG,2
+2019,410,111,475459,17,Malaviya National Institute of Technology,IR-E-U-0410,PG,2
+2020,402,182,600000,21,Malaviya National Institute of Technology,IR-E-U-0410,PG,2
+2018,483,307,550000,34,National Institute of Technology Hamirpur,IR-E-U-0189,UG,4
+2019,458,331,562000,58,National Institute of Technology Hamirpur,IR-E-U-0189,UG,4
+2020,480,270,715000,15,National Institute of Technology Hamirpur,IR-E-U-0189,UG,4
+2018,158,26,465000,14,National Institute of Technology Hamirpur,IR-E-U-0189,PG,2
+2019,165,29,587000,16,National Institute of Technology Hamirpur,IR-E-U-0189,PG,2
+2020,173,17,580000,28,National Institute of Technology Hamirpur,IR-E-U-0189,PG,2
+2018,0,0,0,0,National Institute of Technology Hamirpur,IR-E-U-0189,PG-Integrated,5
+2019,58,45,681000,4,National Institute of Technology Hamirpur,IR-E-U-0189,PG-Integrated,5
+2020,98,72,726000,0,National Institute of Technology Hamirpur,IR-E-U-0189,PG-Integrated,5
+2018,826,610,600000,15,Maulana Azad National Institute of Technology,IR-E-U-0284,UG,4
+2019,834,618,650000,29,Maulana Azad National Institute of Technology,IR-E-U-0284,UG,4
+2020,816,614,750000,32,Maulana Azad National Institute of Technology,IR-E-U-0284,UG,4
+2018,316,31,650000,21,Maulana Azad National Institute of Technology,IR-E-U-0284,PG,2
+2019,310,55,600000,20,Maulana Azad National Institute of Technology,IR-E-U-0284,PG,2
+2020,307,97,650000,35,Maulana Azad National Institute of Technology,IR-E-U-0284,PG,2
+2018,578,322,480000,131,National Institute of Technology Srinagar,IR-E-U-0197,UG,4
+2019,576,284,550000,125,National Institute of Technology Srinagar,IR-E-U-0197,UG,4
+2020,358,157,623000,58,National Institute of Technology Srinagar,IR-E-U-0197,UG,4
+2018,122,50,550000,33,National Institute of Technology Srinagar,IR-E-U-0197,PG,2
+2019,124,56,530000,36,National Institute of Technology Srinagar,IR-E-U-0197,PG,2
+2018,3891,2311,520000,1032,Vellore Institute of Technology,IR-E-U-0490,UG,4
+2019,4666,2968,550000,984,Vellore Institute of Technology,IR-E-U-0490,UG,4
+2020,5500,3483,650000,922,Vellore Institute of Technology,IR-E-U-0490,UG,4
+2018,1350,501,520000,72,Vellore Institute of Technology,IR-E-U-0490,PG,2
+2019,1416,715,592000,95,Vellore Institute of Technology,IR-E-U-0490,PG,2
+2020,1443,526,600000,48,Vellore Institute of Technology,IR-E-U-0490,PG,2
+2018,524,323,350000,41,Vellore Institute of Technology,IR-E-U-0490,PG-Integrated,5
+2019,586,455,580000,25,Vellore Institute of Technology,IR-E-U-0490,PG-Integrated,5
+2020,578,339,600000,8,Vellore Institute of Technology,IR-E-U-0490,PG-Integrated,5
+2018,746,491,600000,142,National Institute of Technology Durgapur,IR-E-U-0577,UG,4
+2019,748,522,640000,121,National Institute of Technology Durgapur,IR-E-U-0577,UG,4
+2020,663,453,790000,150,National Institute of Technology Durgapur,IR-E-U-0577,UG,4
+2018,0,0,0,0,National Institute of Technology Durgapur,IR-E-U-0577,UG,5
+2019,0,0,0,0,National Institute of Technology Durgapur,IR-E-U-0577,UG,5
+2018,274,40,600000,227,National Institute of Technology Durgapur,IR-E-U-0577,PG,2
+2019,200,35,600000,160,National Institute of Technology Durgapur,IR-E-U-0577,PG,2
+2020,220,47,750000,148,National Institute of Technology Durgapur,IR-E-U-0577,PG,2
+2018,111,76,1000000,15,Indian Institute of Technology Indore,IR-E-U-0273,UG,4
+2019,102,74,1300000,15,Indian Institute of Technology Indore,IR-E-U-0273,UG,4
+2020,226,136,1650000,19,Indian Institute of Technology Indore,IR-E-U-0273,UG,4
+2018,65,5,480000,14,Indian Institute of Technology Indore,IR-E-U-0273,PG,2
+2019,79,14,725000,35,Indian Institute of Technology Indore,IR-E-U-0273,PG,2
+2020,121,9,1100000,41,Indian Institute of Technology Indore,IR-E-U-0273,PG,2
+2018,836,583,750000,165,National Institute of Technology Tiruchirappalli,IR-E-U-0467,UG,4
+2019,803,577,900000,168,National Institute of Technology Tiruchirappalli,IR-E-U-0467,UG,4
+2020,803,556,1050000,178,National Institute of Technology Tiruchirappalli,IR-E-U-0467,UG,4
+2018,418,372,600000,20,National Institute of Technology Tiruchirappalli,IR-E-U-0467,PG,2
+2019,459,382,625000,33,National Institute of Technology Tiruchirappalli,IR-E-U-0467,PG,2
+2020,489,368,750000,22,National Institute of Technology Tiruchirappalli,IR-E-U-0467,PG,2
+2018,1526,578,420000,226,Chandigarh University,IR-E-U-0747,UG,4
+2019,2873,724,450000,355,Chandigarh University,IR-E-U-0747,UG,4
+2020,2904,1151,480000,567,Chandigarh University,IR-E-U-0747,UG,4
+2018,121,99,506000,12,Chandigarh University,IR-E-U-0747,PG,2
+2019,171,144,565000,27,Chandigarh University,IR-E-U-0747,PG,2
+2018,171,125,1000000,16,Indian Institute of Technology Patna,IR-E-U-0064,UG,4
+2019,186,114,1000000,7,Indian Institute of Technology Patna,IR-E-U-0064,UG,4
+2020,191,118,1400000,8,Indian Institute of Technology Patna,IR-E-U-0064,UG,4
+2018,65,29,670000,23,Indian Institute of Technology Patna,IR-E-U-0064,PG,2
+2019,75,28,1000000,7,Indian Institute of Technology Patna,IR-E-U-0064,PG,2
+2020,93,43,950000,9,Indian Institute of Technology Patna,IR-E-U-0064,PG,2
